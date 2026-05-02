@@ -7,10 +7,6 @@ import streamlit as st
 # Configuration
 # ---------------------------------------------------------------------------
 
-# When True the denominator for A/B/C proportion buckets excludes "Other"
-# (withdrawals).  Set to False to include "Other" in all denominators.
-EXCLUDE_OTHER_FROM_DENOM = False
-
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "grade_data", "parsed_data")
 
@@ -39,11 +35,6 @@ GRADE_ORDER = [
 SEASON_ORDER = {"Spring": 0, "Summer": 1, "Fall": 2}
 
 BAR_COLOR = "#BF5700"  # UT Austin burnt orange
-
-# Grade buckets (all use graded denominator unless noted)
-BUCKET_A = {"A", "A-"}
-BUCKET_B_MINUS = {"A", "A-", "B+", "B", "B-"}
-BUCKET_C = {"A", "A-", "B+", "B", "B-", "C+", "C"}
 
 
 # ---------------------------------------------------------------------------
@@ -109,47 +100,29 @@ def aggregate(
     )
 
     full_total = int(grade_counts["Count"].sum())
-    other_count = int(
-        grade_counts.loc[grade_counts["Letter Grade"] == "Other", "Count"].sum()
-    )
-    graded_total = full_total - other_count if EXCLUDE_OTHER_FROM_DENOM else full_total
 
     grade_df = pd.DataFrame({"Letter Grade": GRADE_ORDER})
     grade_df = grade_df.merge(grade_counts, on="Letter Grade", how="left")
     grade_df["Count"] = grade_df["Count"].fillna(0).astype(int)
     grade_df["Proportion"] = grade_df["Count"] / full_total if full_total > 0 else 0.0
 
-    def graded_pct(bucket: set) -> float:
-        if graded_total == 0:
-            return 0.0
-        return (
-            float(grade_df.loc[grade_df["Letter Grade"].isin(bucket), "Count"].sum())
-            / graded_total
+    other_count = int(grade_df.loc[grade_df["Letter Grade"] == "Other", "Count"].sum())
+
+    # Build CDF: each entry is the cumulative proportion from A down to that grade
+    letter_grades = [g for g in GRADE_ORDER if g != "Other"]
+    cumulative_set: set = set()
+    summary: dict = {}
+    summary_counts: dict = {}
+    for i, grade in enumerate(letter_grades):
+        cumulative_set.add(grade)
+        label = f"% {grade}" if i == 0 else f"% {grade} or better"
+        count = int(
+            grade_df.loc[grade_df["Letter Grade"].isin(cumulative_set), "Count"].sum()
         )
+        summary[label] = count / full_total if full_total > 0 else 0.0
+        summary_counts[label] = count
 
-    def full_pct(bucket: set) -> float:
-        if full_total == 0:
-            return 0.0
-        return (
-            float(grade_df.loc[grade_df["Letter Grade"].isin(bucket), "Count"].sum())
-            / full_total
-        )
-
-    summary = {
-        "% A or A-": graded_pct(BUCKET_A),
-        "% at least B-": graded_pct(BUCKET_B_MINUS),
-        "% at least C": graded_pct(BUCKET_C),
-        "% withdrawal": full_pct({"Other"}),
-    }
-
-    def bucket_count(bucket: set) -> int:
-        return int(grade_df.loc[grade_df["Letter Grade"].isin(bucket), "Count"].sum())
-
-    summary_counts = {
-        "% A or A-": bucket_count(BUCKET_A),
-        "% at least B-": bucket_count(BUCKET_B_MINUS),
-        "% at least C": bucket_count(BUCKET_C),
-        "% withdrawal": bucket_count({"Other"}),
-    }
+    summary["% Withdrawals"] = other_count / full_total if full_total > 0 else 0.0
+    summary_counts["% Withdrawals"] = other_count
 
     return grade_df, summary, summary_counts, full_total
