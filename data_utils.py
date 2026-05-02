@@ -9,7 +9,7 @@ import streamlit as st
 
 # When True the denominator for A/B/C proportion buckets excludes "Other"
 # (withdrawals).  Set to False to include "Other" in all denominators.
-EXCLUDE_OTHER_FROM_DENOM = True
+EXCLUDE_OTHER_FROM_DENOM = False
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "grade_data", "parsed_data")

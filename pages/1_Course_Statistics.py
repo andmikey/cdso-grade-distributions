@@ -101,7 +101,6 @@ st.caption(
     "Explore grade distributions for MSCS, MSDS, and MSAI courses. "
     "Data is aggregated across the selected semesters."
 )
-
 compare_mode = st.toggle("Compare two courses")
 
 if compare_mode:
