@@ -7,6 +7,22 @@ Fall 2020,Advanced Linear Algebra for Computation,C+,1
 Fall 2020,Advanced Linear Algebra for Computation,C,4
 Fall 2020,Advanced Linear Algebra for Computation,F,2
 Fall 2020,Advanced Linear Algebra for Computation,Other,14
+Fall 2020,Advanced Operating Systems,A,22
+Fall 2020,Advanced Operating Systems,A,53
+Fall 2020,Advanced Operating Systems,A-,14
+Fall 2020,Advanced Operating Systems,B+,4
+Fall 2020,Advanced Operating Systems,B,14
+Fall 2020,Advanced Operating Systems,B,3
+Fall 2020,Advanced Operating Systems,B-,3
+Fall 2020,Advanced Operating Systems,C+,1
+Fall 2020,Advanced Operating Systems,Other,5
+Fall 2020,Advanced Operating Systems,Other,13
+Fall 2020,Algorithms: Techniques and Theory,A,6
+Fall 2020,Algorithms: Techniques and Theory,A-,7
+Fall 2020,Algorithms: Techniques and Theory,B+,4
+Fall 2020,Algorithms: Techniques and Theory,B,5
+Fall 2020,Algorithms: Techniques and Theory,B-,2
+Fall 2020,Algorithms: Techniques and Theory,Other,2
 Fall 2020,Android Programming,A,92
 Fall 2020,Android Programming,A-,17
 Fall 2020,Android Programming,B+,6
@@ -72,6 +88,15 @@ Spring 2021,Advanced Linear Algebra for Computation,B-,1
 Spring 2021,Advanced Linear Algebra for Computation,C,7
 Spring 2021,Advanced Linear Algebra for Computation,F,7
 Spring 2021,Advanced Linear Algebra for Computation,Other,45
+Spring 2021,Algorithms: Techniques and Theory,A,12
+Spring 2021,Algorithms: Techniques and Theory,A-,8
+Spring 2021,Algorithms: Techniques and Theory,B+,7
+Spring 2021,Algorithms: Techniques and Theory,B,7
+Spring 2021,Algorithms: Techniques and Theory,B-,4
+Spring 2021,Algorithms: Techniques and Theory,C+,1
+Spring 2021,Algorithms: Techniques and Theory,C,2
+Spring 2021,Algorithms: Techniques and Theory,D,1
+Spring 2021,Algorithms: Techniques and Theory,Other,28
 Spring 2021,Automated Logical Reasoning,A,20
 Spring 2021,Automated Logical Reasoning,A-,10
 Spring 2021,Automated Logical Reasoning,B+,3
@@ -136,11 +161,6 @@ Summer 2021,Machine Learning,C+,1
 Summer 2021,Machine Learning,C,5
 Summer 2021,Machine Learning,F,1
 Summer 2021,Machine Learning,Other,22
-Fall 2021,Algorithms: Techniques and Theory,A,6
-Fall 2021,Algorithms: Techniques and Theory,A-,4
-Fall 2021,Algorithms: Techniques and Theory,B+,1
-Fall 2021,Algorithms: Techniques and Theory,B,3
-Fall 2021,Algorithms: Techniques and Theory,Other,2
 Fall 2021,Deep Learning,A,54
 Fall 2021,Deep Learning,A-,39
 Fall 2021,Deep Learning,B+,18
@@ -194,14 +214,24 @@ Fall 2021,Virtualization,B+,3
 Fall 2021,Virtualization,B,1
 Fall 2021,Virtualization,F,5
 Fall 2021,Virtualization,Other,18
-Spring 2022,Advanced Operating Systems,A,10
-Spring 2022,Advanced Operating Systems,B,7
-Spring 2022,Advanced Operating Systems,Other,1
-Spring 2022,Algorithms: Techniques and Theory,A,9
-Spring 2022,Algorithms: Techniques and Theory,A-,18
-Spring 2022,Algorithms: Techniques and Theory,B+,3
-Spring 2022,Algorithms: Techniques and Theory,B-,1
-Spring 2022,Algorithms: Techniques and Theory,Other,5
+Spring 2022,Advanced Operating Systems,A,165
+Spring 2022,Advanced Operating Systems,A-,19
+Spring 2022,Advanced Operating Systems,B+,5
+Spring 2022,Advanced Operating Systems,B,1
+Spring 2022,Advanced Operating Systems,B-,2
+Spring 2022,Advanced Operating Systems,C+,1
+Spring 2022,Advanced Operating Systems,C-,2
+Spring 2022,Advanced Operating Systems,F,6
+Spring 2022,Advanced Operating Systems,Other,17
+Spring 2022,Algorithms: Techniques and Theory,A,17
+Spring 2022,Algorithms: Techniques and Theory,A-,7
+Spring 2022,Algorithms: Techniques and Theory,B+,8
+Spring 2022,Algorithms: Techniques and Theory,B,2
+Spring 2022,Algorithms: Techniques and Theory,B-,4
+Spring 2022,Algorithms: Techniques and Theory,C+,1
+Spring 2022,Algorithms: Techniques and Theory,D,1
+Spring 2022,Algorithms: Techniques and Theory,F,3
+Spring 2022,Algorithms: Techniques and Theory,Other,18
 Spring 2022,Automated Logical Reasoning,A,28
 Spring 2022,Automated Logical Reasoning,A-,15
 Spring 2022,Automated Logical Reasoning,B+,28
@@ -249,6 +279,17 @@ Spring 2022,Optimization,C,1
 Spring 2022,Optimization,D,1
 Spring 2022,Optimization,F,2
 Spring 2022,Optimization,Other,3
+Summer 2022,Advanced Operating Systems,A,26
+Summer 2022,Advanced Operating Systems,A-,17
+Summer 2022,Advanced Operating Systems,B+,7
+Summer 2022,Advanced Operating Systems,B,7
+Summer 2022,Advanced Operating Systems,C+,2
+Summer 2022,Advanced Operating Systems,C,1
+Summer 2022,Advanced Operating Systems,D+,1
+Summer 2022,Advanced Operating Systems,D,3
+Summer 2022,Advanced Operating Systems,D-,1
+Summer 2022,Advanced Operating Systems,F,9
+Summer 2022,Advanced Operating Systems,Other,27
 Summer 2022,Machine Learning,A,14
 Summer 2022,Machine Learning,A-,4
 Summer 2022,Machine Learning,B+,5
@@ -256,14 +297,6 @@ Summer 2022,Machine Learning,B,5
 Summer 2022,Machine Learning,D-,1
 Summer 2022,Machine Learning,F,1
 Summer 2022,Machine Learning,Other,8
-Fall 2022,Advanced Operating Systems,A,20
-Fall 2022,Advanced Operating Systems,B,16
-Fall 2022,Advanced Operating Systems,Other,4
-Fall 2022,Algorithms: Techniques and Theory,A,10
-Fall 2022,Algorithms: Techniques and Theory,A-,3
-Fall 2022,Algorithms: Techniques and Theory,B+,7
-Fall 2022,Algorithms: Techniques and Theory,B,2
-Fall 2022,Algorithms: Techniques and Theory,Other,8
 Fall 2022,Android Programming,A,253
 Fall 2022,Android Programming,A-,15
 Fall 2022,Android Programming,B+,10
@@ -350,18 +383,24 @@ Spring 2023,Advanced Linear Algebra for Computation,C+,1
 Spring 2023,Advanced Linear Algebra for Computation,C,4
 Spring 2023,Advanced Linear Algebra for Computation,F,7
 Spring 2023,Advanced Linear Algebra for Computation,Other,61
-Spring 2023,Advanced Operating Systems,A,3
-Spring 2023,Advanced Operating Systems,A-,2
-Spring 2023,Advanced Operating Systems,B,1
-Spring 2023,Advanced Operating Systems,B-,3
-Spring 2023,Advanced Operating Systems,C,1
-Spring 2023,Advanced Operating Systems,Other,2
-Spring 2023,Algorithms: Techniques and Theory,A,11
-Spring 2023,Algorithms: Techniques and Theory,A-,14
-Spring 2023,Algorithms: Techniques and Theory,B+,6
-Spring 2023,Algorithms: Techniques and Theory,B,2
-Spring 2023,Algorithms: Techniques and Theory,B-,4
-Spring 2023,Algorithms: Techniques and Theory,C,1
+Spring 2023,Advanced Operating Systems,A,106
+Spring 2023,Advanced Operating Systems,A-,22
+Spring 2023,Advanced Operating Systems,B+,14
+Spring 2023,Advanced Operating Systems,B,8
+Spring 2023,Advanced Operating Systems,B-,8
+Spring 2023,Advanced Operating Systems,C+,2
+Spring 2023,Advanced Operating Systems,C-,1
+Spring 2023,Advanced Operating Systems,D+,5
+Spring 2023,Advanced Operating Systems,Other,45
+Spring 2023,Algorithms: Techniques and Theory,A,23
+Spring 2023,Algorithms: Techniques and Theory,A-,30
+Spring 2023,Algorithms: Techniques and Theory,B+,22
+Spring 2023,Algorithms: Techniques and Theory,B,11
+Spring 2023,Algorithms: Techniques and Theory,B-,6
+Spring 2023,Algorithms: Techniques and Theory,C+,3
+Spring 2023,Algorithms: Techniques and Theory,C,4
+Spring 2023,Algorithms: Techniques and Theory,F,6
+Spring 2023,Algorithms: Techniques and Theory,Other,34
 Spring 2023,Deep Learning,A,37
 Spring 2023,Deep Learning,A-,34
 Spring 2023,Deep Learning,B+,16
@@ -431,16 +470,6 @@ Summer 2023,Machine Learning,B,5
 Summer 2023,Machine Learning,B-,2
 Summer 2023,Machine Learning,D+,2
 Summer 2023,Machine Learning,Other,11
-Fall 2023,Advanced Operating Systems,A,7
-Fall 2023,Advanced Operating Systems,A-,2
-Fall 2023,Advanced Operating Systems,B,4
-Fall 2023,Advanced Operating Systems,B-,1
-Fall 2023,Advanced Operating Systems,Other,2
-Fall 2023,Algorithms: Techniques and Theory,A,8
-Fall 2023,Algorithms: Techniques and Theory,A-,3
-Fall 2023,Algorithms: Techniques and Theory,B+,1
-Fall 2023,Algorithms: Techniques and Theory,B-,1
-Fall 2023,Algorithms: Techniques and Theory,Other,5
 Fall 2023,Case Studies in Machine Learning,A,191
 Fall 2023,Case Studies in Machine Learning,A-,54
 Fall 2023,Case Studies in Machine Learning,B+,19
@@ -537,18 +566,21 @@ Spring 2024,Advanced Linear Algebra for Computation,C,9
 Spring 2024,Advanced Linear Algebra for Computation,D,1
 Spring 2024,Advanced Linear Algebra for Computation,F,1
 Spring 2024,Advanced Linear Algebra for Computation,Other,30
-Spring 2024,Advanced Operating Systems,A,4
-Spring 2024,Advanced Operating Systems,A-,3
-Spring 2024,Advanced Operating Systems,B+,1
-Spring 2024,Advanced Operating Systems,B,2
-Spring 2024,Advanced Operating Systems,Other,1
-Spring 2024,Algorithms: Techniques and Theory,A,7
-Spring 2024,Algorithms: Techniques and Theory,A-,6
-Spring 2024,Algorithms: Techniques and Theory,B+,1
-Spring 2024,Algorithms: Techniques and Theory,B,2
-Spring 2024,Algorithms: Techniques and Theory,B-,9
-Spring 2024,Algorithms: Techniques and Theory,C+,3
-Spring 2024,Algorithms: Techniques and Theory,Other,2
+Spring 2024,Advanced Operating Systems,A,101
+Spring 2024,Advanced Operating Systems,A-,58
+Spring 2024,Advanced Operating Systems,B+,21
+Spring 2024,Advanced Operating Systems,B,3
+Spring 2024,Advanced Operating Systems,B-,4
+Spring 2024,Advanced Operating Systems,C+,1
+Spring 2024,Advanced Operating Systems,F,4
+Spring 2024,Advanced Operating Systems,Other,23
+Spring 2024,Algorithms: Techniques and Theory,A,14
+Spring 2024,Algorithms: Techniques and Theory,A-,15
+Spring 2024,Algorithms: Techniques and Theory,B+,13
+Spring 2024,Algorithms: Techniques and Theory,B,9
+Spring 2024,Algorithms: Techniques and Theory,B-,4
+Spring 2024,Algorithms: Techniques and Theory,F,1
+Spring 2024,Algorithms: Techniques and Theory,Other,16
 Spring 2024,Android Programming,A,257
 Spring 2024,Android Programming,A-,24
 Spring 2024,Android Programming,B+,12
@@ -638,12 +670,6 @@ Summer 2024,Reinforcement Learning,B-,8
 Summer 2024,Reinforcement Learning,C+,4
 Summer 2024,Reinforcement Learning,C,3
 Summer 2024,Reinforcement Learning,Other,11
-Fall 2024,Algorithms: Techniques and Theory,A,5
-Fall 2024,Algorithms: Techniques and Theory,A-,2
-Fall 2024,Algorithms: Techniques and Theory,B+,1
-Fall 2024,Algorithms: Techniques and Theory,B,3
-Fall 2024,Algorithms: Techniques and Theory,B-,2
-Fall 2024,Algorithms: Techniques and Theory,Other,2
 Fall 2024,Case Studies in Machine Learning,A,247
 Fall 2024,Case Studies in Machine Learning,A-,36
 Fall 2024,Case Studies in Machine Learning,B+,5
@@ -726,9 +752,13 @@ Spring 2025,Advanced Linear Algebra for Computation,C+,1
 Spring 2025,Advanced Linear Algebra for Computation,C,1
 Spring 2025,Advanced Linear Algebra for Computation,F,1
 Spring 2025,Advanced Linear Algebra for Computation,Other,10
-Spring 2025,Advanced Operating Systems,A,2
-Spring 2025,Advanced Operating Systems,A-,3
-Spring 2025,Advanced Operating Systems,B,1
+Spring 2025,Advanced Operating Systems,A,50
+Spring 2025,Advanced Operating Systems,A-,12
+Spring 2025,Advanced Operating Systems,B+,10
+Spring 2025,Advanced Operating Systems,B,4
+Spring 2025,Advanced Operating Systems,B-,1
+Spring 2025,Advanced Operating Systems,F,2
+Spring 2025,Advanced Operating Systems,Other,11
 Spring 2025,Advances in Deep Learning,A,276
 Spring 2025,Advances in Deep Learning,A-,32
 Spring 2025,Advances in Deep Learning,B+,6
@@ -736,11 +766,12 @@ Spring 2025,Advances in Deep Learning,B,7
 Spring 2025,Advances in Deep Learning,C,3
 Spring 2025,Advances in Deep Learning,F,4
 Spring 2025,Advances in Deep Learning,Other,9
-Spring 2025,Algorithms: Techniques and Theory,A,5
-Spring 2025,Algorithms: Techniques and Theory,A-,5
-Spring 2025,Algorithms: Techniques and Theory,B+,3
-Spring 2025,Algorithms: Techniques and Theory,B,3
+Spring 2025,Algorithms: Techniques and Theory,A,37
+Spring 2025,Algorithms: Techniques and Theory,A-,27
+Spring 2025,Algorithms: Techniques and Theory,B+,6
+Spring 2025,Algorithms: Techniques and Theory,B,7
 Spring 2025,Algorithms: Techniques and Theory,D,1
+Spring 2025,Algorithms: Techniques and Theory,Other,4
 Spring 2025,Android Programming,A,251
 Spring 2025,Android Programming,A-,30
 Spring 2025,Android Programming,B+,7
@@ -848,12 +879,6 @@ Fall 2025,Advanced Linear Algebra for Computation,B-,1
 Fall 2025,Advanced Linear Algebra for Computation,C-,1
 Fall 2025,Advanced Linear Algebra for Computation,F,5
 Fall 2025,Advanced Linear Algebra for Computation,Other,9
-Fall 2025,Advanced Operating Systems,A,19
-Fall 2025,Advanced Operating Systems,A-,7
-Fall 2025,Advanced Operating Systems,B+,2
-Fall 2025,Advanced Operating Systems,B,4
-Fall 2025,Advanced Operating Systems,B-,1
-Fall 2025,Advanced Operating Systems,Other,2
 Fall 2025,Advances in Deep Generative Models,A,34
 Fall 2025,Advances in Deep Generative Models,A-,8
 Fall 2025,Advances in Deep Generative Models,B+,19
@@ -870,11 +895,6 @@ Fall 2025,Advances in Deep Learning,C,1
 Fall 2025,Advances in Deep Learning,C-,1
 Fall 2025,Advances in Deep Learning,F,1
 Fall 2025,Advances in Deep Learning,Other,4
-Fall 2025,Algorithms: Techniques and Theory,A-,4
-Fall 2025,Algorithms: Techniques and Theory,B,1
-Fall 2025,Algorithms: Techniques and Theory,B-,1
-Fall 2025,Algorithms: Techniques and Theory,C,1
-Fall 2025,Algorithms: Techniques and Theory,Other,4
 Fall 2025,Deep Learning,A,233
 Fall 2025,Deep Learning,A-,4
 Fall 2025,Deep Learning,B+,1
