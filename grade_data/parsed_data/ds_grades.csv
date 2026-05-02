@@ -1,0 +1,736 @@
+Semester,Course Name,Letter Grade,Count of letter grade
+Spring 2021,Deep Learning,A,1
+Spring 2021,Deep Learning,A-,1
+Spring 2021,Deep Learning,B+,1
+Spring 2021,Deep Learning,C+,1
+Spring 2021,Deep Learning,Other,6
+Spring 2021,Machine Learning,A,38
+Spring 2021,Machine Learning,B,26
+Spring 2021,Machine Learning,B-,9
+Spring 2021,Machine Learning,C,5
+Spring 2021,Machine Learning,Other,32
+Spring 2021,Natural Language Processing,A,7
+Spring 2021,Natural Language Processing,A-,1
+Spring 2021,Natural Language Processing,B,1
+Spring 2021,Natural Language Processing,B-,1
+Spring 2021,Natural Language Processing,Other,8
+Summer 2021,Deep Learning,A,16
+Summer 2021,Deep Learning,A-,5
+Summer 2021,Deep Learning,B+,3
+Summer 2021,Deep Learning,B,1
+Summer 2021,Deep Learning,B-,2
+Summer 2021,Deep Learning,D-,1
+Summer 2021,Deep Learning,F,2
+Summer 2021,Deep Learning,Other,15
+Summer 2021,Machine Learning,A,4
+Summer 2021,Machine Learning,A-,4
+Summer 2021,Machine Learning,B+,3
+Summer 2021,Machine Learning,B,3
+Summer 2021,Machine Learning,C+,1
+Summer 2021,Machine Learning,D,1
+Summer 2021,Machine Learning,F,1
+Summer 2021,Machine Learning,Other,4
+Summer 2021,Regression & Predictive Modeling,A,151
+Summer 2021,Regression & Predictive Modeling,A-,12
+Summer 2021,Regression & Predictive Modeling,B+,7
+Summer 2021,Regression & Predictive Modeling,B,5
+Summer 2021,Regression & Predictive Modeling,B-,2
+Summer 2021,Regression & Predictive Modeling,C+,1
+Summer 2021,Regression & Predictive Modeling,C,1
+Summer 2021,Regression & Predictive Modeling,D,1
+Summer 2021,Regression & Predictive Modeling,D-,2
+Summer 2021,Regression & Predictive Modeling,F,4
+Summer 2021,Regression & Predictive Modeling,Other,22
+Fall 2021,Deep Learning,A,3
+Fall 2021,Deep Learning,A-,3
+Fall 2021,Deep Learning,B+,1
+Fall 2021,Deep Learning,B,2
+Fall 2021,Deep Learning,C,1
+Fall 2021,Deep Learning,C-,1
+Fall 2021,Deep Learning,D+,1
+Fall 2021,Deep Learning,F,2
+Fall 2021,Deep Learning,Other,3
+Fall 2021,Design Principles & Causal Inference,A,25
+Fall 2021,Design Principles & Causal Inference,A-,25
+Fall 2021,Design Principles & Causal Inference,B+,40
+Fall 2021,Design Principles & Causal Inference,B,17
+Fall 2021,Design Principles & Causal Inference,B-,20
+Fall 2021,Design Principles & Causal Inference,C,14
+Fall 2021,Design Principles & Causal Inference,D,9
+Fall 2021,Design Principles & Causal Inference,F,8
+Fall 2021,Design Principles & Causal Inference,Other,19
+Fall 2021,Machine Learning,A,27
+Fall 2021,Machine Learning,A-,11
+Fall 2021,Machine Learning,B+,18
+Fall 2021,Machine Learning,B,23
+Fall 2021,Machine Learning,B-,3
+Fall 2021,Machine Learning,C,10
+Fall 2021,Machine Learning,C-,2
+Fall 2021,Machine Learning,Other,30
+Fall 2021,Natural Language Processing,A,36
+Fall 2021,Natural Language Processing,A-,3
+Fall 2021,Natural Language Processing,B,1
+Fall 2021,Natural Language Processing,B-,1
+Fall 2021,Natural Language Processing,C+,1
+Fall 2021,Natural Language Processing,C,1
+Fall 2021,Natural Language Processing,C-,1
+Fall 2021,Natural Language Processing,F,4
+Fall 2021,Natural Language Processing,Other,12
+Fall 2021,Optimization,A,18
+Fall 2021,Optimization,A-,15
+Fall 2021,Optimization,B+,4
+Fall 2021,Optimization,B,3
+Fall 2021,Optimization,B-,1
+Fall 2021,Optimization,F,2
+Fall 2021,Optimization,Other,5
+Fall 2021,Probability & Inference,A,163
+Fall 2021,Probability & Inference,A-,51
+Fall 2021,Probability & Inference,B+,46
+Fall 2021,Probability & Inference,B,31
+Fall 2021,Probability & Inference,B-,24
+Fall 2021,Probability & Inference,C+,11
+Fall 2021,Probability & Inference,C,12
+Fall 2021,Probability & Inference,C-,4
+Fall 2021,Probability & Inference,D+,5
+Fall 2021,Probability & Inference,D,4
+Fall 2021,Probability & Inference,D-,1
+Fall 2021,Probability & Inference,F,31
+Fall 2021,Probability & Inference,Other,61
+Spring 2022,Advanced Predictive Models,A,20
+Spring 2022,Advanced Predictive Models,A-,2
+Spring 2022,Advanced Predictive Models,B,4
+Spring 2022,Advanced Predictive Models,B-,4
+Spring 2022,Advanced Predictive Models,F,2
+Spring 2022,Advanced Predictive Models,Other,3
+Spring 2022,Data Exploration & Visualization,A,302
+Spring 2022,Data Exploration & Visualization,B,23
+Spring 2022,Data Exploration & Visualization,C,7
+Spring 2022,Data Exploration & Visualization,F,7
+Spring 2022,Data Exploration & Visualization,Other,11
+Spring 2022,Deep Learning,A,7
+Spring 2022,Deep Learning,A-,2
+Spring 2022,Deep Learning,B,1
+Spring 2022,Deep Learning,C,1
+Spring 2022,Deep Learning,F,2
+Spring 2022,Deep Learning,Other,2
+Spring 2022,Machine Learning,A,7
+Spring 2022,Machine Learning,B+,1
+Spring 2022,Machine Learning,B,3
+Spring 2022,Machine Learning,Other,8
+Spring 2022,Optimization,A-,4
+Spring 2022,Optimization,B+,3
+Spring 2022,Regression & Predictive Modeling,A,105
+Spring 2022,Regression & Predictive Modeling,B,12
+Spring 2022,Regression & Predictive Modeling,D,4
+Spring 2022,Regression & Predictive Modeling,Other,25
+Summer 2022,Advanced Predictive Models,A,82
+Summer 2022,Advanced Predictive Models,A-,12
+Summer 2022,Advanced Predictive Models,B+,11
+Summer 2022,Advanced Predictive Models,B,25
+Summer 2022,Advanced Predictive Models,B-,2
+Summer 2022,Advanced Predictive Models,F,1
+Summer 2022,Advanced Predictive Models,Other,33
+Summer 2022,Design Principles & Causal Inference,A,12
+Summer 2022,Design Principles & Causal Inference,A-,13
+Summer 2022,Design Principles & Causal Inference,B+,14
+Summer 2022,Design Principles & Causal Inference,B,2
+Summer 2022,Design Principles & Causal Inference,B-,3
+Summer 2022,Design Principles & Causal Inference,Other,13
+Summer 2022,Machine Learning,A,25
+Summer 2022,Machine Learning,A-,4
+Summer 2022,Machine Learning,B+,5
+Summer 2022,Machine Learning,B,5
+Summer 2022,Machine Learning,C+,1
+Summer 2022,Machine Learning,D+,1
+Summer 2022,Machine Learning,Other,6
+Summer 2022,Regression & Predictive Modeling,A,160
+Summer 2022,Regression & Predictive Modeling,A-,25
+Summer 2022,Regression & Predictive Modeling,B+,14
+Summer 2022,Regression & Predictive Modeling,B,9
+Summer 2022,Regression & Predictive Modeling,B-,7
+Summer 2022,Regression & Predictive Modeling,C+,4
+Summer 2022,Regression & Predictive Modeling,C,1
+Summer 2022,Regression & Predictive Modeling,D-,1
+Summer 2022,Regression & Predictive Modeling,F,5
+Summer 2022,Regression & Predictive Modeling,Other,33
+Fall 2022,Data Exploration & Visualization,A,267
+Fall 2022,Data Exploration & Visualization,B,10
+Fall 2022,Data Exploration & Visualization,C,8
+Fall 2022,Data Exploration & Visualization,D,1
+Fall 2022,Data Exploration & Visualization,F,3
+Fall 2022,Data Exploration & Visualization,Other,11
+Fall 2022,Data Structures & Algorithms,A,54
+Fall 2022,Data Structures & Algorithms,A-,47
+Fall 2022,Data Structures & Algorithms,B+,17
+Fall 2022,Data Structures & Algorithms,B,19
+Fall 2022,Data Structures & Algorithms,B-,8
+Fall 2022,Data Structures & Algorithms,C+,15
+Fall 2022,Data Structures & Algorithms,C,15
+Fall 2022,Data Structures & Algorithms,Other,97
+Fall 2022,Deep Learning,A,20
+Fall 2022,Deep Learning,A-,10
+Fall 2022,Deep Learning,B+,9
+Fall 2022,Deep Learning,B,7
+Fall 2022,Deep Learning,C+,2
+Fall 2022,Deep Learning,C-,1
+Fall 2022,Deep Learning,Other,10
+Fall 2022,Design Principles & Causal Inference,A,27
+Fall 2022,Design Principles & Causal Inference,A-,39
+Fall 2022,Design Principles & Causal Inference,B+,29
+Fall 2022,Design Principles & Causal Inference,B,18
+Fall 2022,Design Principles & Causal Inference,B-,7
+Fall 2022,Design Principles & Causal Inference,C,2
+Fall 2022,Design Principles & Causal Inference,Other,16
+Fall 2022,Machine Learning,A,29
+Fall 2022,Machine Learning,A-,20
+Fall 2022,Machine Learning,B+,15
+Fall 2022,Machine Learning,B,26
+Fall 2022,Machine Learning,D+,1
+Fall 2022,Machine Learning,D,2
+Fall 2022,Machine Learning,F,1
+Fall 2022,Machine Learning,Other,12
+Fall 2022,Natural Language Processing,A,39
+Fall 2022,Natural Language Processing,A-,24
+Fall 2022,Natural Language Processing,B+,13
+Fall 2022,Natural Language Processing,B,6
+Fall 2022,Natural Language Processing,B-,3
+Fall 2022,Natural Language Processing,C+,1
+Fall 2022,Natural Language Processing,C,3
+Fall 2022,Natural Language Processing,C-,2
+Fall 2022,Natural Language Processing,F,1
+Fall 2022,Natural Language Processing,Other,12
+Fall 2022,Optimization,A,7
+Fall 2022,Optimization,A-,16
+Fall 2022,Optimization,B+,2
+Fall 2022,Optimization,B,12
+Fall 2022,Optimization,B-,1
+Fall 2022,Optimization,C+,2
+Fall 2022,Optimization,C,3
+Fall 2022,Optimization,D,2
+Fall 2022,Optimization,Other,3
+Fall 2022,Probability & Inference,A,92
+Fall 2022,Probability & Inference,A-,36
+Fall 2022,Probability & Inference,B+,26
+Fall 2022,Probability & Inference,B,18
+Fall 2022,Probability & Inference,B-,12
+Fall 2022,Probability & Inference,C+,6
+Fall 2022,Probability & Inference,C,11
+Fall 2022,Probability & Inference,C-,2
+Fall 2022,Probability & Inference,D+,2
+Fall 2022,Probability & Inference,D,6
+Fall 2022,Probability & Inference,F,12
+Fall 2022,Probability & Inference,Other,20
+Spring 2023,Advanced Predictive Models,A,111
+Spring 2023,Advanced Predictive Models,A-,18
+Spring 2023,Advanced Predictive Models,B+,5
+Spring 2023,Advanced Predictive Models,B,7
+Spring 2023,Advanced Predictive Models,F,1
+Spring 2023,Advanced Predictive Models,Other,14
+Spring 2023,Data Exploration & Visualization,A,182
+Spring 2023,Data Exploration & Visualization,B,11
+Spring 2023,Data Exploration & Visualization,C,2
+Spring 2023,Data Exploration & Visualization,D,4
+Spring 2023,Data Exploration & Visualization,F,2
+Spring 2023,Data Exploration & Visualization,Other,7
+Spring 2023,Deep Learning,A,41
+Spring 2023,Deep Learning,A-,33
+Spring 2023,Deep Learning,B+,26
+Spring 2023,Deep Learning,B,30
+Spring 2023,Deep Learning,B-,1
+Spring 2023,Deep Learning,C+,5
+Spring 2023,Deep Learning,C,2
+Spring 2023,Deep Learning,C-,3
+Spring 2023,Deep Learning,D+,1
+Spring 2023,Deep Learning,F,4
+Spring 2023,Deep Learning,Other,14
+Spring 2023,Machine Learning,A,31
+Spring 2023,Machine Learning,A-,29
+Spring 2023,Machine Learning,B+,26
+Spring 2023,Machine Learning,B,12
+Spring 2023,Machine Learning,B-,7
+Spring 2023,Machine Learning,C+,8
+Spring 2023,Machine Learning,D,1
+Spring 2023,Machine Learning,F,1
+Spring 2023,Machine Learning,Other,13
+Spring 2023,Optimization,A,13
+Spring 2023,Optimization,A-,21
+Spring 2023,Optimization,B+,10
+Spring 2023,Optimization,B,7
+Spring 2023,Optimization,B-,11
+Spring 2023,Optimization,F,1
+Spring 2023,Optimization,Other,2
+Spring 2023,Regression & Predictive Modeling,A,175
+Spring 2023,Regression & Predictive Modeling,A-,16
+Spring 2023,Regression & Predictive Modeling,B+,6
+Spring 2023,Regression & Predictive Modeling,B,7
+Spring 2023,Regression & Predictive Modeling,B-,1
+Spring 2023,Regression & Predictive Modeling,C+,2
+Spring 2023,Regression & Predictive Modeling,D-,1
+Spring 2023,Regression & Predictive Modeling,F,8
+Spring 2023,Regression & Predictive Modeling,Other,14
+Summer 2023,Advanced Predictive Models,A,125
+Summer 2023,Advanced Predictive Models,A-,42
+Summer 2023,Advanced Predictive Models,B+,12
+Summer 2023,Advanced Predictive Models,B,7
+Summer 2023,Advanced Predictive Models,C+,1
+Summer 2023,Advanced Predictive Models,Other,17
+Summer 2023,Deep Learning,A,38
+Summer 2023,Deep Learning,A-,17
+Summer 2023,Deep Learning,B+,9
+Summer 2023,Deep Learning,B,16
+Summer 2023,Deep Learning,C+,5
+Summer 2023,Deep Learning,C,6
+Summer 2023,Deep Learning,D-,1
+Summer 2023,Deep Learning,Other,13
+Summer 2023,Machine Learning,A,17
+Summer 2023,Machine Learning,A-,27
+Summer 2023,Machine Learning,B+,14
+Summer 2023,Machine Learning,B,12
+Summer 2023,Machine Learning,B-,6
+Summer 2023,Machine Learning,C+,2
+Summer 2023,Machine Learning,C-,1
+Summer 2023,Machine Learning,D+,1
+Summer 2023,Machine Learning,Other,11
+Summer 2023,Regression & Predictive Modeling,A,111
+Summer 2023,Regression & Predictive Modeling,A-,11
+Summer 2023,Regression & Predictive Modeling,B+,4
+Summer 2023,Regression & Predictive Modeling,B,3
+Summer 2023,Regression & Predictive Modeling,B-,4
+Summer 2023,Regression & Predictive Modeling,C+,1
+Summer 2023,Regression & Predictive Modeling,C,1
+Summer 2023,Regression & Predictive Modeling,Other,13
+Fall 2023,Data Exploration & Visualization,A,181
+Fall 2023,Data Exploration & Visualization,B,15
+Fall 2023,Data Exploration & Visualization,C,4
+Fall 2023,Data Exploration & Visualization,D,1
+Fall 2023,Data Exploration & Visualization,F,1
+Fall 2023,Data Exploration & Visualization,Other,11
+Fall 2023,Data Structures & Algorithms,A,61
+Fall 2023,Data Structures & Algorithms,A-,24
+Fall 2023,Data Structures & Algorithms,B+,52
+Fall 2023,Data Structures & Algorithms,B,32
+Fall 2023,Data Structures & Algorithms,B-,24
+Fall 2023,Data Structures & Algorithms,C+,10
+Fall 2023,Data Structures & Algorithms,C,13
+Fall 2023,Data Structures & Algorithms,Other,56
+Fall 2023,Deep Learning,A,27
+Fall 2023,Deep Learning,A-,13
+Fall 2023,Deep Learning,B+,5
+Fall 2023,Deep Learning,B,9
+Fall 2023,Deep Learning,C+,4
+Fall 2023,Deep Learning,C,2
+Fall 2023,Deep Learning,C-,1
+Fall 2023,Deep Learning,D-,1
+Fall 2023,Deep Learning,F,1
+Fall 2023,Deep Learning,Other,17
+Fall 2023,Design Principles & Causal Inference,A,38
+Fall 2023,Design Principles & Causal Inference,A-,51
+Fall 2023,Design Principles & Causal Inference,B+,43
+Fall 2023,Design Principles & Causal Inference,B,66
+Fall 2023,Design Principles & Causal Inference,B-,22
+Fall 2023,Design Principles & Causal Inference,C,7
+Fall 2023,Design Principles & Causal Inference,Other,18
+Fall 2023,Machine Learning,A,48
+Fall 2023,Machine Learning,A-,20
+Fall 2023,Machine Learning,B+,36
+Fall 2023,Machine Learning,B,12
+Fall 2023,Machine Learning,B-,7
+Fall 2023,Machine Learning,C+,2
+Fall 2023,Machine Learning,C,2
+Fall 2023,Machine Learning,Other,12
+Fall 2023,Natural Language Processing,A,80
+Fall 2023,Natural Language Processing,A-,65
+Fall 2023,Natural Language Processing,B+,20
+Fall 2023,Natural Language Processing,B,25
+Fall 2023,Natural Language Processing,B-,14
+Fall 2023,Natural Language Processing,C+,2
+Fall 2023,Natural Language Processing,C-,1
+Fall 2023,Natural Language Processing,D+,2
+Fall 2023,Natural Language Processing,D-,1
+Fall 2023,Natural Language Processing,Other,32
+Fall 2023,Optimization,A,13
+Fall 2023,Optimization,A-,9
+Fall 2023,Optimization,B+,4
+Fall 2023,Optimization,B,1
+Fall 2023,Optimization,B-,5
+Fall 2023,Optimization,C+,3
+Fall 2023,Optimization,C,3
+Fall 2023,Optimization,C-,2
+Fall 2023,Optimization,D+,1
+Fall 2023,Optimization,Other,2
+Fall 2023,Probability & Inference,A,76
+Fall 2023,Probability & Inference,A-,36
+Fall 2023,Probability & Inference,B+,35
+Fall 2023,Probability & Inference,B,39
+Fall 2023,Probability & Inference,B-,11
+Fall 2023,Probability & Inference,C+,4
+Fall 2023,Probability & Inference,C,9
+Fall 2023,Probability & Inference,C-,2
+Fall 2023,Probability & Inference,D+,2
+Fall 2023,Probability & Inference,D,3
+Fall 2023,Probability & Inference,D-,1
+Fall 2023,Probability & Inference,F,6
+Fall 2023,Probability & Inference,Other,53
+Spring 2024,Data Exploration & Visualization,A,184
+Spring 2024,Data Exploration & Visualization,B,13
+Spring 2024,Data Exploration & Visualization,C,2
+Spring 2024,Data Exploration & Visualization,D,1
+Spring 2024,Data Exploration & Visualization,F,4
+Spring 2024,Data Exploration & Visualization,Other,5
+Spring 2024,Data Structures & Algorithms,A,77
+Spring 2024,Data Structures & Algorithms,A-,18
+Spring 2024,Data Structures & Algorithms,B+,44
+Spring 2024,Data Structures & Algorithms,B,43
+Spring 2024,Data Structures & Algorithms,B-,5
+Spring 2024,Data Structures & Algorithms,C+,6
+Spring 2024,Data Structures & Algorithms,C,7
+Spring 2024,Data Structures & Algorithms,Other,56
+Spring 2024,Deep Learning,A,62
+Spring 2024,Deep Learning,A-,44
+Spring 2024,Deep Learning,B+,17
+Spring 2024,Deep Learning,B,22
+Spring 2024,Deep Learning,C+,4
+Spring 2024,Deep Learning,C,2
+Spring 2024,Deep Learning,C-,3
+Spring 2024,Deep Learning,F,2
+Spring 2024,Deep Learning,Other,38
+Spring 2024,Machine Learning,A,43
+Spring 2024,Machine Learning,A-,26
+Spring 2024,Machine Learning,B+,37
+Spring 2024,Machine Learning,B,20
+Spring 2024,Machine Learning,B-,3
+Spring 2024,Machine Learning,C+,3
+Spring 2024,Machine Learning,C,3
+Spring 2024,Machine Learning,C-,1
+Spring 2024,Machine Learning,D-,1
+Spring 2024,Machine Learning,F,2
+Spring 2024,Machine Learning,Other,15
+Spring 2024,Optimization,A,47
+Spring 2024,Optimization,A-,43
+Spring 2024,Optimization,B+,24
+Spring 2024,Optimization,B,19
+Spring 2024,Optimization,C+,5
+Spring 2024,Optimization,C,4
+Spring 2024,Optimization,Other,3
+Spring 2024,Regression & Predictive Modeling,A,176
+Spring 2024,Regression & Predictive Modeling,A-,22
+Spring 2024,Regression & Predictive Modeling,B+,8
+Spring 2024,Regression & Predictive Modeling,B,9
+Spring 2024,Regression & Predictive Modeling,B-,3
+Spring 2024,Regression & Predictive Modeling,C,1
+Spring 2024,Regression & Predictive Modeling,F,2
+Spring 2024,Regression & Predictive Modeling,Other,16
+Summer 2024,Advanced Predictive Models,A,129
+Summer 2024,Advanced Predictive Models,A-,58
+Summer 2024,Advanced Predictive Models,B+,27
+Summer 2024,Advanced Predictive Models,B,12
+Summer 2024,Advanced Predictive Models,B-,2
+Summer 2024,Advanced Predictive Models,Other,13
+Summer 2024,Deep Learning,A,75
+Summer 2024,Deep Learning,A-,12
+Summer 2024,Deep Learning,B+,3
+Summer 2024,Deep Learning,B,8
+Summer 2024,Deep Learning,C+,3
+Summer 2024,Deep Learning,C,2
+Summer 2024,Deep Learning,F,1
+Summer 2024,Deep Learning,Other,1
+Summer 2024,Machine Learning,A,29
+Summer 2024,Machine Learning,A-,27
+Summer 2024,Machine Learning,B+,24
+Summer 2024,Machine Learning,B,18
+Summer 2024,Machine Learning,B-,8
+Summer 2024,Machine Learning,C+,3
+Summer 2024,Machine Learning,C,1
+Summer 2024,Machine Learning,Other,13
+Summer 2024,Regression & Predictive Modeling,A,166
+Summer 2024,Regression & Predictive Modeling,A-,8
+Summer 2024,Regression & Predictive Modeling,B+,7
+Summer 2024,Regression & Predictive Modeling,B-,3
+Summer 2024,Regression & Predictive Modeling,C+,1
+Summer 2024,Regression & Predictive Modeling,C,1
+Summer 2024,Regression & Predictive Modeling,F,2
+Summer 2024,Regression & Predictive Modeling,Other,18
+Summer 2024,Reinforcement Learning,A,38
+Summer 2024,Reinforcement Learning,A-,25
+Summer 2024,Reinforcement Learning,B+,14
+Summer 2024,Reinforcement Learning,B,14
+Summer 2024,Reinforcement Learning,B-,5
+Summer 2024,Reinforcement Learning,C+,2
+Summer 2024,Reinforcement Learning,C,2
+Summer 2024,Reinforcement Learning,F,1
+Summer 2024,Reinforcement Learning,Other,4
+Fall 2024,Data Exploration & Visualization,A,235
+Fall 2024,Data Exploration & Visualization,B,14
+Fall 2024,Data Exploration & Visualization,C,1
+Fall 2024,Data Exploration & Visualization,F,3
+Fall 2024,Data Exploration & Visualization,Other,6
+Fall 2024,Data Science for Health Discovery and Innovation,A,105
+Fall 2024,Data Science for Health Discovery and Innovation,A-,31
+Fall 2024,Data Science for Health Discovery and Innovation,B+,18
+Fall 2024,Data Science for Health Discovery and Innovation,B,11
+Fall 2024,Data Science for Health Discovery and Innovation,B-,5
+Fall 2024,Data Science for Health Discovery and Innovation,Other,9
+Fall 2024,Data Structures & Algorithms,A,86
+Fall 2024,Data Structures & Algorithms,A-,27
+Fall 2024,Data Structures & Algorithms,B+,78
+Fall 2024,Data Structures & Algorithms,B,44
+Fall 2024,Data Structures & Algorithms,B-,11
+Fall 2024,Data Structures & Algorithms,C+,16
+Fall 2024,Data Structures & Algorithms,C,3
+Fall 2024,Data Structures & Algorithms,Other,39
+Fall 2024,Deep Learning,A,122
+Fall 2024,Deep Learning,A-,17
+Fall 2024,Deep Learning,B+,4
+Fall 2024,Deep Learning,B,7
+Fall 2024,Deep Learning,C+,1
+Fall 2024,Deep Learning,C,1
+Fall 2024,Deep Learning,F,1
+Fall 2024,Deep Learning,Other,13
+Fall 2024,Design Principles & Causal Inference,A,6
+Fall 2024,Design Principles & Causal Inference,A-,25
+Fall 2024,Design Principles & Causal Inference,B+,42
+Fall 2024,Design Principles & Causal Inference,B,2
+Fall 2024,Design Principles & Causal Inference,B-,2
+Fall 2024,Design Principles & Causal Inference,F,1
+Fall 2024,Design Principles & Causal Inference,Other,6
+Fall 2024,Machine Learning,A,33
+Fall 2024,Machine Learning,A-,27
+Fall 2024,Machine Learning,B+,26
+Fall 2024,Machine Learning,B,9
+Fall 2024,Machine Learning,B-,5
+Fall 2024,Machine Learning,C+,1
+Fall 2024,Machine Learning,C,1
+Fall 2024,Machine Learning,C-,2
+Fall 2024,Machine Learning,F,2
+Fall 2024,Machine Learning,Other,9
+Fall 2024,Natural Language Processing,A,76
+Fall 2024,Natural Language Processing,A-,114
+Fall 2024,Natural Language Processing,B+,48
+Fall 2024,Natural Language Processing,B,21
+Fall 2024,Natural Language Processing,B-,10
+Fall 2024,Natural Language Processing,C,2
+Fall 2024,Natural Language Processing,C-,1
+Fall 2024,Natural Language Processing,D+,1
+Fall 2024,Natural Language Processing,D,1
+Fall 2024,Natural Language Processing,Other,20
+Fall 2024,Optimization,A,11
+Fall 2024,Optimization,A-,13
+Fall 2024,Optimization,B+,3
+Fall 2024,Optimization,B,3
+Fall 2024,Optimization,B-,1
+Fall 2024,Optimization,F,1
+Fall 2024,Optimization,Other,1
+Fall 2024,Probability & Inference,A,138
+Fall 2024,Probability & Inference,A-,38
+Fall 2024,Probability & Inference,B+,36
+Fall 2024,Probability & Inference,B,30
+Fall 2024,Probability & Inference,B-,11
+Fall 2024,Probability & Inference,C+,5
+Fall 2024,Probability & Inference,C,11
+Fall 2024,Probability & Inference,C-,4
+Fall 2024,Probability & Inference,D,2
+Fall 2024,Probability & Inference,D-,1
+Fall 2024,Probability & Inference,F,8
+Fall 2024,Probability & Inference,Other,40
+Fall 2024,Reinforcement Learning,A,40
+Fall 2024,Reinforcement Learning,A-,25
+Fall 2024,Reinforcement Learning,B+,18
+Fall 2024,Reinforcement Learning,B,21
+Fall 2024,Reinforcement Learning,B-,4
+Fall 2024,Reinforcement Learning,C+,4
+Fall 2024,Reinforcement Learning,C,7
+Fall 2024,Reinforcement Learning,D+,1
+Fall 2024,Reinforcement Learning,Other,2
+Spring 2025,Advances in Deep Learning,A,115
+Spring 2025,Advances in Deep Learning,A-,12
+Spring 2025,Advances in Deep Learning,B+,8
+Spring 2025,Advances in Deep Learning,B,12
+Spring 2025,Advances in Deep Learning,C+,3
+Spring 2025,Advances in Deep Learning,C,1
+Spring 2025,Advances in Deep Learning,C-,1
+Spring 2025,Advances in Deep Learning,D,1
+Spring 2025,Advances in Deep Learning,D-,1
+Spring 2025,Advances in Deep Learning,F,1
+Spring 2025,Advances in Deep Learning,Other,6
+Spring 2025,Data Structures & Algorithms,A,89
+Spring 2025,Data Structures & Algorithms,A-,34
+Spring 2025,Data Structures & Algorithms,B+,63
+Spring 2025,Data Structures & Algorithms,B,27
+Spring 2025,Data Structures & Algorithms,B-,23
+Spring 2025,Data Structures & Algorithms,C+,23
+Spring 2025,Data Structures & Algorithms,C,5
+Spring 2025,Data Structures & Algorithms,Other,32
+Spring 2025,Deep Learning,A,190
+Spring 2025,Deep Learning,A-,22
+Spring 2025,Deep Learning,B+,8
+Spring 2025,Deep Learning,B,6
+Spring 2025,Deep Learning,C+,1
+Spring 2025,Deep Learning,F,1
+Spring 2025,Deep Learning,Other,9
+Spring 2025,Machine Learning,A,30
+Spring 2025,Machine Learning,A-,25
+Spring 2025,Machine Learning,B+,28
+Spring 2025,Machine Learning,B,14
+Spring 2025,Machine Learning,B-,8
+Spring 2025,Machine Learning,C+,4
+Spring 2025,Machine Learning,C,1
+Spring 2025,Machine Learning,F,2
+Spring 2025,Machine Learning,Other,13
+Spring 2025,Optimization,A,16
+Spring 2025,Optimization,A-,23
+Spring 2025,Optimization,B+,17
+Spring 2025,Optimization,B,4
+Spring 2025,Optimization,C+,3
+Spring 2025,Optimization,Other,1
+Spring 2025,Principles of Data Science,A,270
+Spring 2025,Principles of Data Science,A-,14
+Spring 2025,Principles of Data Science,B+,2
+Spring 2025,Principles of Data Science,B,2
+Spring 2025,Principles of Data Science,C+,1
+Spring 2025,Principles of Data Science,D-,2
+Spring 2025,Principles of Data Science,F,3
+Spring 2025,Principles of Data Science,Other,3
+Spring 2025,Probability & Inference,A,144
+Spring 2025,Probability & Inference,A-,34
+Spring 2025,Probability & Inference,B+,28
+Spring 2025,Probability & Inference,B,16
+Spring 2025,Probability & Inference,B-,8
+Spring 2025,Probability & Inference,C+,3
+Spring 2025,Probability & Inference,C,3
+Spring 2025,Probability & Inference,C-,1
+Spring 2025,Probability & Inference,D+,1
+Spring 2025,Probability & Inference,D,1
+Spring 2025,Probability & Inference,D-,2
+Spring 2025,Probability & Inference,F,4
+Spring 2025,Probability & Inference,Other,14
+Spring 2025,Regression & Predictive Modeling,A,198
+Spring 2025,Regression & Predictive Modeling,A-,25
+Spring 2025,Regression & Predictive Modeling,B+,7
+Spring 2025,Regression & Predictive Modeling,B,1
+Spring 2025,Regression & Predictive Modeling,D+,1
+Spring 2025,Regression & Predictive Modeling,F,1
+Spring 2025,Regression & Predictive Modeling,Other,6
+Summer 2025,Advanced Predictive Models,A,75
+Summer 2025,Advanced Predictive Models,A-,34
+Summer 2025,Advanced Predictive Models,B+,17
+Summer 2025,Advanced Predictive Models,B,13
+Summer 2025,Advanced Predictive Models,Other,6
+Summer 2025,Advances in Deep Learning,A,59
+Summer 2025,Advances in Deep Learning,A-,15
+Summer 2025,Advances in Deep Learning,B+,5
+Summer 2025,Advances in Deep Learning,B,17
+Summer 2025,Advances in Deep Learning,C+,3
+Summer 2025,Advances in Deep Learning,C,5
+Summer 2025,Advances in Deep Learning,C-,1
+Summer 2025,Advances in Deep Learning,Other,6
+Summer 2025,Deep Learning,A,115
+Summer 2025,Deep Learning,A-,11
+Summer 2025,Deep Learning,B+,7
+Summer 2025,Deep Learning,B,3
+Summer 2025,Deep Learning,Other,8
+Summer 2025,Machine Learning,A,52
+Summer 2025,Machine Learning,A-,31
+Summer 2025,Machine Learning,B+,29
+Summer 2025,Machine Learning,B,26
+Summer 2025,Machine Learning,B-,15
+Summer 2025,Machine Learning,C+,7
+Summer 2025,Machine Learning,C,1
+Summer 2025,Machine Learning,Other,14
+Summer 2025,Regression & Predictive Modeling,A,190
+Summer 2025,Regression & Predictive Modeling,A-,8
+Summer 2025,Regression & Predictive Modeling,B+,1
+Summer 2025,Regression & Predictive Modeling,Other,11
+Summer 2025,Reinforcement Learning,A,29
+Summer 2025,Reinforcement Learning,A-,16
+Summer 2025,Reinforcement Learning,B+,6
+Summer 2025,Reinforcement Learning,B,9
+Summer 2025,Reinforcement Learning,B-,1
+Summer 2025,Reinforcement Learning,Other,3
+Fall 2025,Advances in Deep Generative Models,A,24
+Fall 2025,Advances in Deep Generative Models,A-,7
+Fall 2025,Advances in Deep Generative Models,B+,13
+Fall 2025,Advances in Deep Generative Models,B,3
+Fall 2025,Advances in Deep Generative Models,B-,2
+Fall 2025,Advances in Deep Generative Models,F,1
+Fall 2025,Advances in Deep Generative Models,Other,4
+Fall 2025,Advances in Deep Learning,A,74
+Fall 2025,Advances in Deep Learning,A-,18
+Fall 2025,Advances in Deep Learning,B+,14
+Fall 2025,Advances in Deep Learning,B,17
+Fall 2025,Advances in Deep Learning,C+,3
+Fall 2025,Advances in Deep Learning,C,2
+Fall 2025,Advances in Deep Learning,C-,1
+Fall 2025,Advances in Deep Learning,D,1
+Fall 2025,Advances in Deep Learning,Other,3
+Fall 2025,Data Science for Health Discovery and Innovation,A,191
+Fall 2025,Data Science for Health Discovery and Innovation,A-,21
+Fall 2025,Data Science for Health Discovery and Innovation,B+,9
+Fall 2025,Data Science for Health Discovery and Innovation,B,4
+Fall 2025,Data Science for Health Discovery and Innovation,B-,3
+Fall 2025,Data Science for Health Discovery and Innovation,Other,2
+Fall 2025,Data Structures & Algorithms,A,106
+Fall 2025,Data Structures & Algorithms,A-,43
+Fall 2025,Data Structures & Algorithms,B+,32
+Fall 2025,Data Structures & Algorithms,B,48
+Fall 2025,Data Structures & Algorithms,B-,12
+Fall 2025,Data Structures & Algorithms,C+,8
+Fall 2025,Data Structures & Algorithms,C,15
+Fall 2025,Data Structures & Algorithms,Other,24
+Fall 2025,Deep Learning,A,163
+Fall 2025,Deep Learning,A-,10
+Fall 2025,Deep Learning,B,11
+Fall 2025,Deep Learning,C+,2
+Fall 2025,Deep Learning,D+,1
+Fall 2025,Deep Learning,Other,8
+Fall 2025,Machine Learning,A,44
+Fall 2025,Machine Learning,A-,39
+Fall 2025,Machine Learning,B+,39
+Fall 2025,Machine Learning,B,19
+Fall 2025,Machine Learning,B-,9
+Fall 2025,Machine Learning,C+,3
+Fall 2025,Machine Learning,C,1
+Fall 2025,Machine Learning,C-,1
+Fall 2025,Machine Learning,F,1
+Fall 2025,Machine Learning,Other,11
+Fall 2025,Natural Language Processing,A,102
+Fall 2025,Natural Language Processing,A-,57
+Fall 2025,Natural Language Processing,B+,26
+Fall 2025,Natural Language Processing,B,13
+Fall 2025,Natural Language Processing,B-,1
+Fall 2025,Natural Language Processing,C+,3
+Fall 2025,Natural Language Processing,C,1
+Fall 2025,Natural Language Processing,C-,1
+Fall 2025,Natural Language Processing,D,1
+Fall 2025,Natural Language Processing,Other,13
+Fall 2025,Optimization,A,8
+Fall 2025,Optimization,A-,2
+Fall 2025,Optimization,B+,3
+Fall 2025,Optimization,Other,3
+Fall 2025,Principles of Data Science,A,244
+Fall 2025,Principles of Data Science,A-,8
+Fall 2025,Principles of Data Science,B+,3
+Fall 2025,Principles of Data Science,B,2
+Fall 2025,Principles of Data Science,B-,4
+Fall 2025,Principles of Data Science,C+,2
+Fall 2025,Principles of Data Science,C,1
+Fall 2025,Principles of Data Science,F,5
+Fall 2025,Principles of Data Science,Other,6
+Fall 2025,Probability & Inference,A,139
+Fall 2025,Probability & Inference,A-,26
+Fall 2025,Probability & Inference,B+,14
+Fall 2025,Probability & Inference,B,6
+Fall 2025,Probability & Inference,B-,6
+Fall 2025,Probability & Inference,C+,3
+Fall 2025,Probability & Inference,C,2
+Fall 2025,Probability & Inference,C-,1
+Fall 2025,Probability & Inference,D+,1
+Fall 2025,Probability & Inference,F,2
+Fall 2025,Probability & Inference,Other,14
+Fall 2025,Reinforcement Learning,A,30
+Fall 2025,Reinforcement Learning,A-,9
+Fall 2025,Reinforcement Learning,B+,2
+Fall 2025,Reinforcement Learning,B,4
+Fall 2025,Reinforcement Learning,B-,3
+Fall 2025,Reinforcement Learning,C+,1
+Fall 2025,Reinforcement Learning,F,2
+Fall 2025,Reinforcement Learning,Other,3

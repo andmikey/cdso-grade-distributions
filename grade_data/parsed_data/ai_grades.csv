@@ -1,0 +1,335 @@
+Semester,Course Name,Letter Grade,Count of letter grade
+Spring 2024,AI in Healthcare,A,64
+Spring 2024,AI in Healthcare,A-,1
+Spring 2024,AI in Healthcare,B+,3
+Spring 2024,AI in Healthcare,C,1
+Spring 2024,AI in Healthcare,Other,6
+Spring 2024,Automated Logical Reasoning,A,9
+Spring 2024,Automated Logical Reasoning,A-,5
+Spring 2024,Automated Logical Reasoning,B+,5
+Spring 2024,Automated Logical Reasoning,B,3
+Spring 2024,Automated Logical Reasoning,B-,5
+Spring 2024,Automated Logical Reasoning,C,1
+Spring 2024,Automated Logical Reasoning,Other,8
+Spring 2024,Deep Learning,A,45
+Spring 2024,Deep Learning,A-,15
+Spring 2024,Deep Learning,B+,13
+Spring 2024,Deep Learning,B,18
+Spring 2024,Deep Learning,C+,4
+Spring 2024,Deep Learning,C,2
+Spring 2024,Deep Learning,C-,2
+Spring 2024,Deep Learning,D+,1
+Spring 2024,Deep Learning,D-,1
+Spring 2024,Deep Learning,F,2
+Spring 2024,Deep Learning,Other,38
+Spring 2024,Ethics in AI,A,369
+Spring 2024,Ethics in AI,A-,12
+Spring 2024,Ethics in AI,B+,4
+Spring 2024,Ethics in AI,B,2
+Spring 2024,Ethics in AI,B-,3
+Spring 2024,Ethics in AI,D+,2
+Spring 2024,Ethics in AI,F,1
+Spring 2024,Ethics in AI,Other,21
+Spring 2024,Machine Learning,A,54
+Spring 2024,Machine Learning,A-,20
+Spring 2024,Machine Learning,B+,52
+Spring 2024,Machine Learning,B,22
+Spring 2024,Machine Learning,B-,13
+Spring 2024,Machine Learning,C+,2
+Spring 2024,Machine Learning,C,5
+Spring 2024,Machine Learning,C-,3
+Spring 2024,Machine Learning,D,2
+Spring 2024,Machine Learning,D-,1
+Spring 2024,Machine Learning,F,6
+Spring 2024,Machine Learning,Other,41
+Spring 2024,Online Learning and Optimization,A,10
+Spring 2024,Online Learning and Optimization,A-,10
+Spring 2024,Online Learning and Optimization,B+,4
+Spring 2024,Online Learning and Optimization,B,3
+Spring 2024,Online Learning and Optimization,F,2
+Spring 2024,Online Learning and Optimization,Other,2
+Spring 2024,Optimization,A,10
+Spring 2024,Optimization,A-,9
+Spring 2024,Optimization,B+,6
+Spring 2024,Optimization,B,6
+Spring 2024,Optimization,B-,1
+Spring 2024,Optimization,C+,1
+Spring 2024,Optimization,C,1
+Spring 2024,Optimization,F,2
+Spring 2024,Optimization,Other,1
+Summer 2024,Deep Learning,A,114
+Summer 2024,Deep Learning,A-,10
+Summer 2024,Deep Learning,B+,6
+Summer 2024,Deep Learning,B,9
+Summer 2024,Deep Learning,C+,2
+Summer 2024,Deep Learning,C-,1
+Summer 2024,Deep Learning,D+,1
+Summer 2024,Deep Learning,D,1
+Summer 2024,Deep Learning,D-,1
+Summer 2024,Deep Learning,F,2
+Summer 2024,Deep Learning,Other,7
+Summer 2024,Machine Learning,A,15
+Summer 2024,Machine Learning,A-,7
+Summer 2024,Machine Learning,B+,10
+Summer 2024,Machine Learning,B,16
+Summer 2024,Machine Learning,B-,8
+Summer 2024,Machine Learning,C+,5
+Summer 2024,Machine Learning,C,1
+Summer 2024,Machine Learning,F,1
+Summer 2024,Machine Learning,Other,18
+Summer 2024,Reinforcement Learning,A,27
+Summer 2024,Reinforcement Learning,A-,31
+Summer 2024,Reinforcement Learning,B+,20
+Summer 2024,Reinforcement Learning,B,17
+Summer 2024,Reinforcement Learning,B-,4
+Summer 2024,Reinforcement Learning,C+,2
+Summer 2024,Reinforcement Learning,C,1
+Summer 2024,Reinforcement Learning,F,2
+Summer 2024,Reinforcement Learning,Other,13
+Fall 2024,AI in Healthcare,A,80
+Fall 2024,AI in Healthcare,A-,5
+Fall 2024,AI in Healthcare,B+,1
+Fall 2024,AI in Healthcare,B,1
+Fall 2024,AI in Healthcare,B-,1
+Fall 2024,AI in Healthcare,C,1
+Fall 2024,AI in Healthcare,Other,9
+Fall 2024,Case Studies in Machine Learning,A,251
+Fall 2024,Case Studies in Machine Learning,A-,39
+Fall 2024,Case Studies in Machine Learning,B+,14
+Fall 2024,Case Studies in Machine Learning,B,7
+Fall 2024,Case Studies in Machine Learning,B-,6
+Fall 2024,Case Studies in Machine Learning,C+,1
+Fall 2024,Case Studies in Machine Learning,C,1
+Fall 2024,Case Studies in Machine Learning,D+,1
+Fall 2024,Case Studies in Machine Learning,F,3
+Fall 2024,Case Studies in Machine Learning,Other,18
+Fall 2024,Deep Learning,A,242
+Fall 2024,Deep Learning,A-,21
+Fall 2024,Deep Learning,B+,11
+Fall 2024,Deep Learning,B,11
+Fall 2024,Deep Learning,C+,3
+Fall 2024,Deep Learning,C,4
+Fall 2024,Deep Learning,C-,1
+Fall 2024,Deep Learning,D-,2
+Fall 2024,Deep Learning,F,3
+Fall 2024,Deep Learning,Other,14
+Fall 2024,Ethics in AI,A,446
+Fall 2024,Ethics in AI,A-,24
+Fall 2024,Ethics in AI,B+,9
+Fall 2024,Ethics in AI,B,8
+Fall 2024,Ethics in AI,B-,1
+Fall 2024,Ethics in AI,C,1
+Fall 2024,Ethics in AI,F,4
+Fall 2024,Ethics in AI,Other,12
+Fall 2024,Machine Learning,A,38
+Fall 2024,Machine Learning,A-,37
+Fall 2024,Machine Learning,B+,81
+Fall 2024,Machine Learning,B,13
+Fall 2024,Machine Learning,B-,17
+Fall 2024,Machine Learning,C+,10
+Fall 2024,Machine Learning,C,5
+Fall 2024,Machine Learning,C-,1
+Fall 2024,Machine Learning,D+,1
+Fall 2024,Machine Learning,D,3
+Fall 2024,Machine Learning,D-,1
+Fall 2024,Machine Learning,F,7
+Fall 2024,Machine Learning,Other,46
+Fall 2024,Natural Language Processing,A,83
+Fall 2024,Natural Language Processing,A-,73
+Fall 2024,Natural Language Processing,B+,52
+Fall 2024,Natural Language Processing,B,13
+Fall 2024,Natural Language Processing,B-,6
+Fall 2024,Natural Language Processing,C+,5
+Fall 2024,Natural Language Processing,C,1
+Fall 2024,Natural Language Processing,F,3
+Fall 2024,Natural Language Processing,Other,27
+Fall 2024,Optimization,A,8
+Fall 2024,Optimization,A-,3
+Fall 2024,Optimization,B+,2
+Fall 2024,Optimization,B,3
+Fall 2024,Optimization,C+,1
+Fall 2024,Reinforcement Learning,A,15
+Fall 2024,Reinforcement Learning,A-,8
+Fall 2024,Reinforcement Learning,B+,9
+Fall 2024,Reinforcement Learning,B,6
+Fall 2024,Reinforcement Learning,B-,4
+Fall 2024,Reinforcement Learning,C+,4
+Fall 2024,Reinforcement Learning,D+,1
+Fall 2024,Reinforcement Learning,D,2
+Fall 2024,Reinforcement Learning,F,3
+Fall 2024,Reinforcement Learning,Other,2
+Spring 2025,AI in Healthcare,A,350
+Spring 2025,AI in Healthcare,A-,20
+Spring 2025,AI in Healthcare,B+,8
+Spring 2025,AI in Healthcare,B,4
+Spring 2025,AI in Healthcare,B-,3
+Spring 2025,AI in Healthcare,C,1
+Spring 2025,AI in Healthcare,Other,22
+Spring 2025,Advances in Deep Learning,A,267
+Spring 2025,Advances in Deep Learning,A-,25
+Spring 2025,Advances in Deep Learning,B+,14
+Spring 2025,Advances in Deep Learning,B,23
+Spring 2025,Advances in Deep Learning,C+,5
+Spring 2025,Advances in Deep Learning,C,6
+Spring 2025,Advances in Deep Learning,C-,2
+Spring 2025,Advances in Deep Learning,D+,1
+Spring 2025,Advances in Deep Learning,D-,1
+Spring 2025,Advances in Deep Learning,F,8
+Spring 2025,Advances in Deep Learning,Other,11
+Spring 2025,Automated Logical Reasoning,A,25
+Spring 2025,Automated Logical Reasoning,A-,17
+Spring 2025,Automated Logical Reasoning,B+,56
+Spring 2025,Automated Logical Reasoning,B,4
+Spring 2025,Automated Logical Reasoning,B-,4
+Spring 2025,Automated Logical Reasoning,C,1
+Spring 2025,Automated Logical Reasoning,Other,11
+Spring 2025,Deep Learning,A,449
+Spring 2025,Deep Learning,A-,42
+Spring 2025,Deep Learning,B+,9
+Spring 2025,Deep Learning,B,30
+Spring 2025,Deep Learning,C+,2
+Spring 2025,Deep Learning,C,2
+Spring 2025,Deep Learning,D+,1
+Spring 2025,Deep Learning,F,7
+Spring 2025,Deep Learning,Other,26
+Spring 2025,Machine Learning,A,44
+Spring 2025,Machine Learning,A-,39
+Spring 2025,Machine Learning,B+,46
+Spring 2025,Machine Learning,B,32
+Spring 2025,Machine Learning,B-,16
+Spring 2025,Machine Learning,C+,11
+Spring 2025,Machine Learning,C,2
+Spring 2025,Machine Learning,C-,1
+Spring 2025,Machine Learning,D+,2
+Spring 2025,Machine Learning,D,1
+Spring 2025,Machine Learning,D-,1
+Spring 2025,Machine Learning,F,4
+Spring 2025,Machine Learning,Other,21
+Spring 2025,Online Learning and Optimization,A,109
+Spring 2025,Online Learning and Optimization,A-,22
+Spring 2025,Online Learning and Optimization,B+,18
+Spring 2025,Online Learning and Optimization,B,1
+Spring 2025,Online Learning and Optimization,F,1
+Spring 2025,Online Learning and Optimization,Other,4
+Spring 2025,Optimization,A,26
+Spring 2025,Optimization,A-,24
+Spring 2025,Optimization,B+,33
+Spring 2025,Optimization,B,22
+Spring 2025,Optimization,B-,2
+Spring 2025,Optimization,C+,2
+Spring 2025,Optimization,F,4
+Spring 2025,Optimization,Other,12
+Summer 2025,AI in Healthcare,A,156
+Summer 2025,AI in Healthcare,A-,8
+Summer 2025,AI in Healthcare,B+,2
+Summer 2025,AI in Healthcare,B,4
+Summer 2025,AI in Healthcare,C+,1
+Summer 2025,AI in Healthcare,F,1
+Summer 2025,AI in Healthcare,Other,9
+Summer 2025,Advances in Deep Learning,A,184
+Summer 2025,Advances in Deep Learning,A-,42
+Summer 2025,Advances in Deep Learning,B+,19
+Summer 2025,Advances in Deep Learning,B,27
+Summer 2025,Advances in Deep Learning,C+,12
+Summer 2025,Advances in Deep Learning,C,14
+Summer 2025,Advances in Deep Learning,C-,4
+Summer 2025,Advances in Deep Learning,D+,5
+Summer 2025,Advances in Deep Learning,F,1
+Summer 2025,Advances in Deep Learning,Other,15
+Summer 2025,Deep Learning,A,156
+Summer 2025,Deep Learning,A-,12
+Summer 2025,Deep Learning,B+,2
+Summer 2025,Deep Learning,B,9
+Summer 2025,Deep Learning,C+,1
+Summer 2025,Deep Learning,C,1
+Summer 2025,Deep Learning,Other,3
+Summer 2025,Machine Learning,A,17
+Summer 2025,Machine Learning,A-,15
+Summer 2025,Machine Learning,B+,12
+Summer 2025,Machine Learning,B,19
+Summer 2025,Machine Learning,B-,5
+Summer 2025,Machine Learning,C+,5
+Summer 2025,Machine Learning,C,1
+Summer 2025,Machine Learning,C-,1
+Summer 2025,Machine Learning,D+,1
+Summer 2025,Machine Learning,F,2
+Summer 2025,Machine Learning,Other,19
+Summer 2025,Reinforcement Learning,A,183
+Summer 2025,Reinforcement Learning,A-,47
+Summer 2025,Reinforcement Learning,B+,27
+Summer 2025,Reinforcement Learning,B,32
+Summer 2025,Reinforcement Learning,B-,6
+Summer 2025,Reinforcement Learning,C+,3
+Summer 2025,Reinforcement Learning,C,1
+Summer 2025,Reinforcement Learning,C-,2
+Summer 2025,Reinforcement Learning,D+,1
+Summer 2025,Reinforcement Learning,D,2
+Summer 2025,Reinforcement Learning,F,4
+Summer 2025,Reinforcement Learning,Other,12
+Fall 2025,Advances in Deep Generative Models,A,69
+Fall 2025,Advances in Deep Generative Models,A-,37
+Fall 2025,Advances in Deep Generative Models,B+,28
+Fall 2025,Advances in Deep Generative Models,B,12
+Fall 2025,Advances in Deep Generative Models,B-,6
+Fall 2025,Advances in Deep Generative Models,C+,4
+Fall 2025,Advances in Deep Generative Models,C,4
+Fall 2025,Advances in Deep Generative Models,C-,2
+Fall 2025,Advances in Deep Generative Models,D-,1
+Fall 2025,Advances in Deep Generative Models,Other,19
+Fall 2025,Advances in Deep Learning,A,106
+Fall 2025,Advances in Deep Learning,A-,26
+Fall 2025,Advances in Deep Learning,B+,11
+Fall 2025,Advances in Deep Learning,B,19
+Fall 2025,Advances in Deep Learning,C+,8
+Fall 2025,Advances in Deep Learning,D+,1
+Fall 2025,Advances in Deep Learning,F,1
+Fall 2025,Advances in Deep Learning,Other,9
+Fall 2025,Deep Learning,A,195
+Fall 2025,Deep Learning,A-,10
+Fall 2025,Deep Learning,B+,3
+Fall 2025,Deep Learning,B,8
+Fall 2025,Deep Learning,C+,2
+Fall 2025,Deep Learning,F,5
+Fall 2025,Deep Learning,Other,9
+Fall 2025,Ethics in AI,A,336
+Fall 2025,Ethics in AI,A-,19
+Fall 2025,Ethics in AI,B+,5
+Fall 2025,Ethics in AI,B,7
+Fall 2025,Ethics in AI,C,2
+Fall 2025,Ethics in AI,D,2
+Fall 2025,Ethics in AI,F,4
+Fall 2025,Ethics in AI,Other,7
+Fall 2025,Machine Learning,A,51
+Fall 2025,Machine Learning,A-,32
+Fall 2025,Machine Learning,B+,46
+Fall 2025,Machine Learning,B,23
+Fall 2025,Machine Learning,B-,8
+Fall 2025,Machine Learning,C+,14
+Fall 2025,Machine Learning,D+,1
+Fall 2025,Machine Learning,F,6
+Fall 2025,Machine Learning,Other,25
+Fall 2025,Natural Language Processing,A,272
+Fall 2025,Natural Language Processing,A-,117
+Fall 2025,Natural Language Processing,B+,60
+Fall 2025,Natural Language Processing,B,23
+Fall 2025,Natural Language Processing,B-,14
+Fall 2025,Natural Language Processing,C+,4
+Fall 2025,Natural Language Processing,C,2
+Fall 2025,Natural Language Processing,C-,2
+Fall 2025,Natural Language Processing,D+,1
+Fall 2025,Natural Language Processing,Other,22
+Fall 2025,Optimization,A,22
+Fall 2025,Optimization,A-,12
+Fall 2025,Optimization,B+,8
+Fall 2025,Optimization,B,2
+Fall 2025,Optimization,B-,1
+Fall 2025,Optimization,Other,2
+Fall 2025,Reinforcement Learning,A,89
+Fall 2025,Reinforcement Learning,A-,29
+Fall 2025,Reinforcement Learning,B+,9
+Fall 2025,Reinforcement Learning,B,8
+Fall 2025,Reinforcement Learning,B-,1
+Fall 2025,Reinforcement Learning,C+,2
+Fall 2025,Reinforcement Learning,C-,2
+Fall 2025,Reinforcement Learning,F,3
+Fall 2025,Reinforcement Learning,Other,4
