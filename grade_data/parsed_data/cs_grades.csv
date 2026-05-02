@@ -1,0 +1,898 @@
+Semester,Course Name,Letter Grade,Count of letter grade
+Fall 2020,Android Programming,A,92
+Fall 2020,Android Programming,A-,17
+Fall 2020,Android Programming,B+,6
+Fall 2020,Android Programming,B-,2
+Fall 2020,Android Programming,C+,1
+Fall 2020,Android Programming,C,2
+Fall 2020,Android Programming,D-,1
+Fall 2020,Android Programming,F,3
+Fall 2020,Android Programming,Other,14
+Fall 2020,Deep Learning,A,38
+Fall 2020,Deep Learning,A-,7
+Fall 2020,Deep Learning,B+,4
+Fall 2020,Deep Learning,B,1
+Fall 2020,Deep Learning,B-,2
+Fall 2020,Deep Learning,C-,1
+Fall 2020,Deep Learning,D-,1
+Fall 2020,Deep Learning,F,7
+Fall 2020,Deep Learning,Other,16
+Fall 2020,Machine Learning,A,17
+Fall 2020,Machine Learning,A,20
+Fall 2020,Machine Learning,A-,11
+Fall 2020,Machine Learning,A-,14
+Fall 2020,Machine Learning,B+,3
+Fall 2020,Machine Learning,B+,25
+Fall 2020,Machine Learning,B,12
+Fall 2020,Machine Learning,B-,1
+Fall 2020,Machine Learning,C+,3
+Fall 2020,Machine Learning,C,3
+Fall 2020,Machine Learning,D+,1
+Fall 2020,Machine Learning,D,3
+Fall 2020,Machine Learning,Other,1
+Fall 2020,Machine Learning,Other,15
+Fall 2020,Natural Language Processing,A,37
+Fall 2020,Natural Language Processing,A-,23
+Fall 2020,Natural Language Processing,B+,6
+Fall 2020,Natural Language Processing,B,2
+Fall 2020,Natural Language Processing,B-,2
+Fall 2020,Natural Language Processing,C+,2
+Fall 2020,Natural Language Processing,Other,7
+Fall 2020,Optimization,A,18
+Fall 2020,Optimization,A-,27
+Fall 2020,Optimization,B+,2
+Fall 2020,Optimization,B,19
+Fall 2020,Optimization,B-,2
+Fall 2020,Optimization,C+,4
+Fall 2020,Optimization,F,2
+Fall 2020,Optimization,Other,8
+Fall 2020,Parallel Systems,A,56
+Fall 2020,Parallel Systems,B,11
+Fall 2020,Parallel Systems,C,3
+Fall 2020,Parallel Systems,F,2
+Fall 2020,Parallel Systems,Other,19
+Fall 2020,Virtualization,A,65
+Fall 2020,Virtualization,A-,4
+Fall 2020,Virtualization,B+,1
+Fall 2020,Virtualization,C,2
+Fall 2020,Virtualization,Other,11
+Spring 2021,Automated Logical Reasoning,A,20
+Spring 2021,Automated Logical Reasoning,A-,10
+Spring 2021,Automated Logical Reasoning,B+,3
+Spring 2021,Automated Logical Reasoning,B,4
+Spring 2021,Automated Logical Reasoning,C+,1
+Spring 2021,Automated Logical Reasoning,Other,1
+Spring 2021,Deep Learning,A,25
+Spring 2021,Deep Learning,A-,8
+Spring 2021,Deep Learning,B+,2
+Spring 2021,Deep Learning,B,1
+Spring 2021,Deep Learning,C,1
+Spring 2021,Deep Learning,F,4
+Spring 2021,Deep Learning,Other,14
+Spring 2021,Machine Learning,A,74
+Spring 2021,Machine Learning,B,41
+Spring 2021,Machine Learning,B-,10
+Spring 2021,Machine Learning,C,10
+Spring 2021,Machine Learning,Other,29
+Spring 2021,Natural Language Processing,A,18
+Spring 2021,Natural Language Processing,A,40
+Spring 2021,Natural Language Processing,A,147
+Spring 2021,Natural Language Processing,A-,3
+Spring 2021,Natural Language Processing,A-,5
+Spring 2021,Natural Language Processing,A-,9
+Spring 2021,Natural Language Processing,B+,1
+Spring 2021,Natural Language Processing,B+,2
+Spring 2021,Natural Language Processing,B+,5
+Spring 2021,Natural Language Processing,B,3
+Spring 2021,Natural Language Processing,B,6
+Spring 2021,Natural Language Processing,B-,4
+Spring 2021,Natural Language Processing,B-,3
+Spring 2021,Natural Language Processing,C+,1
+Spring 2021,Natural Language Processing,F,1
+Spring 2021,Natural Language Processing,F,4
+Spring 2021,Natural Language Processing,Other,25
+Spring 2021,Natural Language Processing,Other,2
+Spring 2021,Natural Language Processing,Other,16
+Spring 2021,Reinforcement Learning,A,19
+Spring 2021,Reinforcement Learning,A-,22
+Spring 2021,Reinforcement Learning,B+,19
+Spring 2021,Reinforcement Learning,B,14
+Spring 2021,Reinforcement Learning,B-,15
+Spring 2021,Reinforcement Learning,C+,3
+Spring 2021,Reinforcement Learning,C,4
+Spring 2021,Reinforcement Learning,D,1
+Spring 2021,Reinforcement Learning,F,3
+Spring 2021,Reinforcement Learning,Other,17
+Summer 2021,Deep Learning,A,134
+Summer 2021,Deep Learning,A-,11
+Summer 2021,Deep Learning,B+,8
+Summer 2021,Deep Learning,B,3
+Summer 2021,Deep Learning,B-,1
+Summer 2021,Deep Learning,C,1
+Summer 2021,Deep Learning,F,5
+Summer 2021,Deep Learning,Other,28
+Summer 2021,Machine Learning,A,14
+Summer 2021,Machine Learning,A-,15
+Summer 2021,Machine Learning,B+,12
+Summer 2021,Machine Learning,B,18
+Summer 2021,Machine Learning,B-,8
+Summer 2021,Machine Learning,C+,1
+Summer 2021,Machine Learning,C,5
+Summer 2021,Machine Learning,F,1
+Summer 2021,Machine Learning,Other,22
+Fall 2021,Advanced Linear Algebra for Computation,A,3
+Fall 2021,Advanced Linear Algebra for Computation,A-,1
+Fall 2021,Advanced Linear Algebra for Computation,B+,3
+Fall 2021,Advanced Linear Algebra for Computation,Other,1
+Fall 2021,Algorithms: Techniques and Theory,A,6
+Fall 2021,Algorithms: Techniques and Theory,A-,4
+Fall 2021,Algorithms: Techniques and Theory,B+,1
+Fall 2021,Algorithms: Techniques and Theory,B,3
+Fall 2021,Algorithms: Techniques and Theory,Other,2
+Fall 2021,Deep Learning,A,54
+Fall 2021,Deep Learning,A-,39
+Fall 2021,Deep Learning,B+,18
+Fall 2021,Deep Learning,B,11
+Fall 2021,Deep Learning,C+,1
+Fall 2021,Deep Learning,C,1
+Fall 2021,Deep Learning,D+,1
+Fall 2021,Deep Learning,D,1
+Fall 2021,Deep Learning,D-,1
+Fall 2021,Deep Learning,F,13
+Fall 2021,Deep Learning,Other,24
+Fall 2021,Machine Learning,A,35
+Fall 2021,Machine Learning,A-,16
+Fall 2021,Machine Learning,B+,33
+Fall 2021,Machine Learning,B,29
+Fall 2021,Machine Learning,B-,6
+Fall 2021,Machine Learning,C,11
+Fall 2021,Machine Learning,D,2
+Fall 2021,Machine Learning,F,4
+Fall 2021,Machine Learning,Other,46
+Fall 2021,Natural Language Processing,A,157
+Fall 2021,Natural Language Processing,A-,7
+Fall 2021,Natural Language Processing,B+,6
+Fall 2021,Natural Language Processing,B,2
+Fall 2021,Natural Language Processing,B-,4
+Fall 2021,Natural Language Processing,C+,4
+Fall 2021,Natural Language Processing,C,2
+Fall 2021,Natural Language Processing,C-,3
+Fall 2021,Natural Language Processing,D+,1
+Fall 2021,Natural Language Processing,D,1
+Fall 2021,Natural Language Processing,F,10
+Fall 2021,Natural Language Processing,Other,36
+Fall 2021,Optimization,A,26
+Fall 2021,Optimization,A-,22
+Fall 2021,Optimization,B+,16
+Fall 2021,Optimization,B,1
+Fall 2021,Optimization,B-,2
+Fall 2021,Optimization,C,3
+Fall 2021,Optimization,F,3
+Fall 2021,Optimization,Other,8
+Fall 2021,Parallel Systems,A,74
+Fall 2021,Parallel Systems,A-,12
+Fall 2021,Parallel Systems,B+,2
+Fall 2021,Parallel Systems,B,20
+Fall 2021,Parallel Systems,B-,1
+Fall 2021,Parallel Systems,C,1
+Fall 2021,Parallel Systems,Other,42
+Fall 2021,Virtualization,A,111
+Fall 2021,Virtualization,A-,18
+Fall 2021,Virtualization,B+,3
+Fall 2021,Virtualization,B,1
+Fall 2021,Virtualization,F,5
+Fall 2021,Virtualization,Other,18
+Spring 2022,Advanced Operating Systems,A,10
+Spring 2022,Advanced Operating Systems,B,7
+Spring 2022,Advanced Operating Systems,Other,1
+Spring 2022,Algorithms: Techniques and Theory,A,9
+Spring 2022,Algorithms: Techniques and Theory,A-,18
+Spring 2022,Algorithms: Techniques and Theory,B+,3
+Spring 2022,Algorithms: Techniques and Theory,B-,1
+Spring 2022,Algorithms: Techniques and Theory,Other,5
+Spring 2022,Automated Logical Reasoning,A,28
+Spring 2022,Automated Logical Reasoning,A-,15
+Spring 2022,Automated Logical Reasoning,B+,28
+Spring 2022,Automated Logical Reasoning,B,16
+Spring 2022,Automated Logical Reasoning,B-,11
+Spring 2022,Automated Logical Reasoning,C+,1
+Spring 2022,Automated Logical Reasoning,C,1
+Spring 2022,Automated Logical Reasoning,F,3
+Spring 2022,Automated Logical Reasoning,Other,12
+Spring 2022,Deep Learning,A,29
+Spring 2022,Deep Learning,A-,17
+Spring 2022,Deep Learning,B+,6
+Spring 2022,Deep Learning,B,1
+Spring 2022,Deep Learning,C+,1
+Spring 2022,Deep Learning,C,1
+Spring 2022,Deep Learning,C-,2
+Spring 2022,Deep Learning,D+,1
+Spring 2022,Deep Learning,D,1
+Spring 2022,Deep Learning,F,7
+Spring 2022,Deep Learning,Other,17
+Spring 2022,Introduction to Quantum Information Science,A,21
+Spring 2022,Introduction to Quantum Information Science,A-,23
+Spring 2022,Introduction to Quantum Information Science,B+,13
+Spring 2022,Introduction to Quantum Information Science,B,24
+Spring 2022,Introduction to Quantum Information Science,B-,24
+Spring 2022,Introduction to Quantum Information Science,C+,17
+Spring 2022,Introduction to Quantum Information Science,C,17
+Spring 2022,Introduction to Quantum Information Science,C-,7
+Spring 2022,Introduction to Quantum Information Science,D+,1
+Spring 2022,Introduction to Quantum Information Science,D,3
+Spring 2022,Introduction to Quantum Information Science,F,9
+Spring 2022,Introduction to Quantum Information Science,Other,49
+Spring 2022,Machine Learning,A,35
+Spring 2022,Machine Learning,A-,3
+Spring 2022,Machine Learning,B+,12
+Spring 2022,Machine Learning,B,16
+Spring 2022,Machine Learning,C+,2
+Spring 2022,Machine Learning,C,3
+Spring 2022,Machine Learning,Other,22
+Spring 2022,Optimization,A,12
+Spring 2022,Optimization,A-,17
+Spring 2022,Optimization,B+,15
+Spring 2022,Optimization,B-,1
+Spring 2022,Optimization,C,1
+Spring 2022,Optimization,D,1
+Spring 2022,Optimization,F,2
+Spring 2022,Optimization,Other,3
+Summer 2022,Machine Learning,A,14
+Summer 2022,Machine Learning,A-,4
+Summer 2022,Machine Learning,B+,5
+Summer 2022,Machine Learning,B,5
+Summer 2022,Machine Learning,D-,1
+Summer 2022,Machine Learning,F,1
+Summer 2022,Machine Learning,Other,8
+Fall 2022,Advanced Linear Algebra for Computation,A,4
+Fall 2022,Advanced Linear Algebra for Computation,A-,4
+Fall 2022,Advanced Linear Algebra for Computation,B+,3
+Fall 2022,Advanced Linear Algebra for Computation,Other,1
+Fall 2022,Advanced Operating Systems,A,20
+Fall 2022,Advanced Operating Systems,B,16
+Fall 2022,Advanced Operating Systems,Other,4
+Fall 2022,Algorithms: Techniques and Theory,A,10
+Fall 2022,Algorithms: Techniques and Theory,A-,3
+Fall 2022,Algorithms: Techniques and Theory,B+,7
+Fall 2022,Algorithms: Techniques and Theory,B,2
+Fall 2022,Algorithms: Techniques and Theory,Other,8
+Fall 2022,Android Programming,A,253
+Fall 2022,Android Programming,A-,15
+Fall 2022,Android Programming,B+,10
+Fall 2022,Android Programming,B,4
+Fall 2022,Android Programming,B-,2
+Fall 2022,Android Programming,C+,5
+Fall 2022,Android Programming,C,1
+Fall 2022,Android Programming,C-,1
+Fall 2022,Android Programming,D,1
+Fall 2022,Android Programming,D-,1
+Fall 2022,Android Programming,F,7
+Fall 2022,Android Programming,Other,59
+Fall 2022,Case Studies in Machine Learning,A,172
+Fall 2022,Case Studies in Machine Learning,B+,10
+Fall 2022,Case Studies in Machine Learning,B,10
+Fall 2022,Case Studies in Machine Learning,F,3
+Fall 2022,Case Studies in Machine Learning,Other,10
+Fall 2022,Deep Learning,A,30
+Fall 2022,Deep Learning,A-,21
+Fall 2022,Deep Learning,B+,21
+Fall 2022,Deep Learning,B,15
+Fall 2022,Deep Learning,C+,1
+Fall 2022,Deep Learning,C,3
+Fall 2022,Deep Learning,C-,1
+Fall 2022,Deep Learning,D+,1
+Fall 2022,Deep Learning,F,4
+Fall 2022,Deep Learning,Other,21
+Fall 2022,Machine Learning,A,13
+Fall 2022,Machine Learning,A-,7
+Fall 2022,Machine Learning,B+,8
+Fall 2022,Machine Learning,B,10
+Fall 2022,Machine Learning,C+,1
+Fall 2022,Machine Learning,C,1
+Fall 2022,Machine Learning,D+,4
+Fall 2022,Machine Learning,D,1
+Fall 2022,Machine Learning,Other,28
+Fall 2022,Natural Language Processing,A,89
+Fall 2022,Natural Language Processing,A-,39
+Fall 2022,Natural Language Processing,B+,14
+Fall 2022,Natural Language Processing,B,5
+Fall 2022,Natural Language Processing,B-,3
+Fall 2022,Natural Language Processing,C+,2
+Fall 2022,Natural Language Processing,C,3
+Fall 2022,Natural Language Processing,C-,1
+Fall 2022,Natural Language Processing,D,1
+Fall 2022,Natural Language Processing,F,2
+Fall 2022,Natural Language Processing,Other,26
+Fall 2022,Optimization,A,15
+Fall 2022,Optimization,A-,23
+Fall 2022,Optimization,B+,3
+Fall 2022,Optimization,B,8
+Fall 2022,Optimization,C,1
+Fall 2022,Optimization,C-,1
+Fall 2022,Optimization,D,2
+Fall 2022,Optimization,Other,12
+Fall 2022,Parallel Systems,A,65
+Fall 2022,Parallel Systems,B,12
+Fall 2022,Parallel Systems,B-,1
+Fall 2022,Parallel Systems,C,2
+Fall 2022,Parallel Systems,F,6
+Fall 2022,Parallel Systems,Other,29
+Fall 2022,Reinforcement Learning,A,22
+Fall 2022,Reinforcement Learning,A-,22
+Fall 2022,Reinforcement Learning,B+,18
+Fall 2022,Reinforcement Learning,B,24
+Fall 2022,Reinforcement Learning,B-,10
+Fall 2022,Reinforcement Learning,F,3
+Fall 2022,Reinforcement Learning,Other,22
+Fall 2022,Virtualization,A,34
+Fall 2022,Virtualization,A-,21
+Fall 2022,Virtualization,B+,10
+Fall 2022,Virtualization,B,1
+Fall 2022,Virtualization,B-,2
+Fall 2022,Virtualization,C+,2
+Fall 2022,Virtualization,D+,1
+Fall 2022,Virtualization,F,1
+Fall 2022,Virtualization,Other,7
+Spring 2023,Advanced Operating Systems,A,3
+Spring 2023,Advanced Operating Systems,A-,2
+Spring 2023,Advanced Operating Systems,B,1
+Spring 2023,Advanced Operating Systems,B-,3
+Spring 2023,Advanced Operating Systems,C,1
+Spring 2023,Advanced Operating Systems,Other,2
+Spring 2023,Algorithms: Techniques and Theory,A,11
+Spring 2023,Algorithms: Techniques and Theory,A-,14
+Spring 2023,Algorithms: Techniques and Theory,B+,6
+Spring 2023,Algorithms: Techniques and Theory,B,2
+Spring 2023,Algorithms: Techniques and Theory,B-,4
+Spring 2023,Algorithms: Techniques and Theory,C,1
+Spring 2023,Deep Learning,A,37
+Spring 2023,Deep Learning,A-,34
+Spring 2023,Deep Learning,B+,16
+Spring 2023,Deep Learning,B,15
+Spring 2023,Deep Learning,C+,8
+Spring 2023,Deep Learning,D-,1
+Spring 2023,Deep Learning,F,4
+Spring 2023,Deep Learning,Other,33
+Spring 2023,Introduction to Quantum Information Science,A,7
+Spring 2023,Introduction to Quantum Information Science,A-,5
+Spring 2023,Introduction to Quantum Information Science,B+,11
+Spring 2023,Introduction to Quantum Information Science,B,9
+Spring 2023,Introduction to Quantum Information Science,B-,2
+Spring 2023,Introduction to Quantum Information Science,C+,1
+Spring 2023,Introduction to Quantum Information Science,C,2
+Spring 2023,Introduction to Quantum Information Science,C-,1
+Spring 2023,Introduction to Quantum Information Science,D+,1
+Spring 2023,Introduction to Quantum Information Science,F,1
+Spring 2023,Introduction to Quantum Information Science,Other,9
+Spring 2023,Machine Learning,A,14
+Spring 2023,Machine Learning,A,24
+Spring 2023,Machine Learning,A-,12
+Spring 2023,Machine Learning,A-,7
+Spring 2023,Machine Learning,B+,9
+Spring 2023,Machine Learning,B,10
+Spring 2023,Machine Learning,B-,6
+Spring 2023,Machine Learning,C+,1
+Spring 2023,Machine Learning,C,1
+Spring 2023,Machine Learning,D,1
+Spring 2023,Machine Learning,F,2
+Spring 2023,Machine Learning,Other,11
+Spring 2023,Machine Learning,Other,5
+Spring 2023,Online Learning and Optimization,A,75
+Spring 2023,Online Learning and Optimization,A-,6
+Spring 2023,Online Learning and Optimization,B+,41
+Spring 2023,Online Learning and Optimization,B,4
+Spring 2023,Online Learning and Optimization,B-,1
+Spring 2023,Online Learning and Optimization,F,2
+Spring 2023,Online Learning and Optimization,Other,15
+Spring 2023,Optimization,A,13
+Spring 2023,Optimization,A-,14
+Spring 2023,Optimization,B+,7
+Spring 2023,Optimization,B,4
+Spring 2023,Optimization,B-,5
+Spring 2023,Optimization,F,2
+Spring 2023,Optimization,Other,2
+Summer 2023,Deep Learning,A,33
+Summer 2023,Deep Learning,A-,22
+Summer 2023,Deep Learning,B+,15
+Summer 2023,Deep Learning,B,14
+Summer 2023,Deep Learning,C+,3
+Summer 2023,Deep Learning,C,1
+Summer 2023,Deep Learning,F,1
+Summer 2023,Deep Learning,Other,19
+Summer 2023,Machine Learning,A,26
+Summer 2023,Machine Learning,A-,15
+Summer 2023,Machine Learning,B+,18
+Summer 2023,Machine Learning,B,5
+Summer 2023,Machine Learning,B-,2
+Summer 2023,Machine Learning,D+,2
+Summer 2023,Machine Learning,Other,11
+Fall 2023,Advanced Operating Systems,A,7
+Fall 2023,Advanced Operating Systems,A-,2
+Fall 2023,Advanced Operating Systems,B,4
+Fall 2023,Advanced Operating Systems,B-,1
+Fall 2023,Advanced Operating Systems,Other,2
+Fall 2023,Algorithms: Techniques and Theory,A,8
+Fall 2023,Algorithms: Techniques and Theory,A-,3
+Fall 2023,Algorithms: Techniques and Theory,B+,1
+Fall 2023,Algorithms: Techniques and Theory,B-,1
+Fall 2023,Algorithms: Techniques and Theory,Other,5
+Fall 2023,Case Studies in Machine Learning,A,191
+Fall 2023,Case Studies in Machine Learning,A-,54
+Fall 2023,Case Studies in Machine Learning,B+,19
+Fall 2023,Case Studies in Machine Learning,B,9
+Fall 2023,Case Studies in Machine Learning,B-,8
+Fall 2023,Case Studies in Machine Learning,C+,1
+Fall 2023,Case Studies in Machine Learning,C,1
+Fall 2023,Case Studies in Machine Learning,D+,1
+Fall 2023,Case Studies in Machine Learning,F,8
+Fall 2023,Case Studies in Machine Learning,Other,13
+Fall 2023,Deep Learning,A,35
+Fall 2023,Deep Learning,A-,30
+Fall 2023,Deep Learning,B+,23
+Fall 2023,Deep Learning,B,19
+Fall 2023,Deep Learning,C+,1
+Fall 2023,Deep Learning,C,1
+Fall 2023,Deep Learning,C-,2
+Fall 2023,Deep Learning,D,1
+Fall 2023,Deep Learning,F,5
+Fall 2023,Deep Learning,Other,16
+Fall 2023,Machine Learning,A,24
+Fall 2023,Machine Learning,A-,11
+Fall 2023,Machine Learning,B+,21
+Fall 2023,Machine Learning,B,10
+Fall 2023,Machine Learning,B-,4
+Fall 2023,Machine Learning,C+,4
+Fall 2023,Machine Learning,C,2
+Fall 2023,Machine Learning,C-,3
+Fall 2023,Machine Learning,D-,1
+Fall 2023,Machine Learning,F,4
+Fall 2023,Machine Learning,Other,19
+Fall 2023,Natural Language Processing,A,146
+Fall 2023,Natural Language Processing,A-,76
+Fall 2023,Natural Language Processing,B+,20
+Fall 2023,Natural Language Processing,B,17
+Fall 2023,Natural Language Processing,B-,11
+Fall 2023,Natural Language Processing,C+,3
+Fall 2023,Natural Language Processing,C,1
+Fall 2023,Natural Language Processing,C-,1
+Fall 2023,Natural Language Processing,F,4
+Fall 2023,Natural Language Processing,Other,40
+Fall 2023,Optimization,A,15
+Fall 2023,Optimization,A-,16
+Fall 2023,Optimization,B+,10
+Fall 2023,Optimization,B,7
+Fall 2023,Optimization,B-,2
+Fall 2023,Optimization,C+,5
+Fall 2023,Optimization,C-,4
+Fall 2023,Optimization,F,3
+Fall 2023,Optimization,Other,8
+Fall 2023,Parallel Systems,A,79
+Fall 2023,Parallel Systems,A-,9
+Fall 2023,Parallel Systems,B+,7
+Fall 2023,Parallel Systems,B,8
+Fall 2023,Parallel Systems,B-,4
+Fall 2023,Parallel Systems,F,14
+Fall 2023,Parallel Systems,Other,45
+Fall 2023,"Planning, Search, and Reasoning Under Uncertainty",A,62
+Fall 2023,"Planning, Search, and Reasoning Under Uncertainty",A-,11
+Fall 2023,"Planning, Search, and Reasoning Under Uncertainty",B+,5
+Fall 2023,"Planning, Search, and Reasoning Under Uncertainty",B,5
+Fall 2023,"Planning, Search, and Reasoning Under Uncertainty",B-,6
+Fall 2023,"Planning, Search, and Reasoning Under Uncertainty",D-,1
+Fall 2023,"Planning, Search, and Reasoning Under Uncertainty",F,1
+Fall 2023,"Planning, Search, and Reasoning Under Uncertainty",Other,11
+Fall 2023,Reinforcement Learning,A,42
+Fall 2023,Reinforcement Learning,A-,32
+Fall 2023,Reinforcement Learning,B+,19
+Fall 2023,Reinforcement Learning,B,31
+Fall 2023,Reinforcement Learning,B-,13
+Fall 2023,Reinforcement Learning,C+,11
+Fall 2023,Reinforcement Learning,C,1
+Fall 2023,Reinforcement Learning,C-,5
+Fall 2023,Reinforcement Learning,D,1
+Fall 2023,Reinforcement Learning,D-,3
+Fall 2023,Reinforcement Learning,F,2
+Fall 2023,Reinforcement Learning,Other,16
+Fall 2023,Virtualization,A,58
+Fall 2023,Virtualization,A-,47
+Fall 2023,Virtualization,B+,29
+Fall 2023,Virtualization,B,3
+Fall 2023,Virtualization,B-,2
+Fall 2023,Virtualization,C+,2
+Fall 2023,Virtualization,C,1
+Fall 2023,Virtualization,F,3
+Fall 2023,Virtualization,Other,10
+Spring 2024,Advanced Operating Systems,A,4
+Spring 2024,Advanced Operating Systems,A-,3
+Spring 2024,Advanced Operating Systems,B+,1
+Spring 2024,Advanced Operating Systems,B,2
+Spring 2024,Advanced Operating Systems,Other,1
+Spring 2024,Algorithms: Techniques and Theory,A,7
+Spring 2024,Algorithms: Techniques and Theory,A-,6
+Spring 2024,Algorithms: Techniques and Theory,B+,1
+Spring 2024,Algorithms: Techniques and Theory,B,2
+Spring 2024,Algorithms: Techniques and Theory,B-,9
+Spring 2024,Algorithms: Techniques and Theory,C+,3
+Spring 2024,Algorithms: Techniques and Theory,Other,2
+Spring 2024,Android Programming,A,257
+Spring 2024,Android Programming,A-,24
+Spring 2024,Android Programming,B+,12
+Spring 2024,Android Programming,B,14
+Spring 2024,Android Programming,B-,6
+Spring 2024,Android Programming,C+,8
+Spring 2024,Android Programming,C,3
+Spring 2024,Android Programming,D+,1
+Spring 2024,Android Programming,F,13
+Spring 2024,Android Programming,Other,34
+Spring 2024,Automated Logical Reasoning,A,12
+Spring 2024,Automated Logical Reasoning,A-,9
+Spring 2024,Automated Logical Reasoning,B+,13
+Spring 2024,Automated Logical Reasoning,B,3
+Spring 2024,Automated Logical Reasoning,B-,2
+Spring 2024,Automated Logical Reasoning,C+,1
+Spring 2024,Automated Logical Reasoning,C,1
+Spring 2024,Automated Logical Reasoning,Other,7
+Spring 2024,Deep Learning,A,35
+Spring 2024,Deep Learning,A-,17
+Spring 2024,Deep Learning,B+,12
+Spring 2024,Deep Learning,B,9
+Spring 2024,Deep Learning,C+,2
+Spring 2024,Deep Learning,C-,1
+Spring 2024,Deep Learning,F,4
+Spring 2024,Deep Learning,Other,37
+Spring 2024,Introduction to Quantum Information Science,A,10
+Spring 2024,Introduction to Quantum Information Science,A-,3
+Spring 2024,Introduction to Quantum Information Science,B+,4
+Spring 2024,Introduction to Quantum Information Science,B,10
+Spring 2024,Introduction to Quantum Information Science,B-,1
+Spring 2024,Introduction to Quantum Information Science,C+,4
+Spring 2024,Introduction to Quantum Information Science,C,3
+Spring 2024,Introduction to Quantum Information Science,F,1
+Spring 2024,Introduction to Quantum Information Science,Other,14
+Spring 2024,Machine Learning,A,15
+Spring 2024,Machine Learning,A-,12
+Spring 2024,Machine Learning,B+,20
+Spring 2024,Machine Learning,B,7
+Spring 2024,Machine Learning,B-,3
+Spring 2024,Machine Learning,C+,1
+Spring 2024,Machine Learning,D+,2
+Spring 2024,Machine Learning,D-,1
+Spring 2024,Machine Learning,F,2
+Spring 2024,Machine Learning,Other,17
+Spring 2024,Online Learning and Optimization,A,45
+Spring 2024,Online Learning and Optimization,A-,33
+Spring 2024,Online Learning and Optimization,B+,29
+Spring 2024,Online Learning and Optimization,B,15
+Spring 2024,Online Learning and Optimization,C+,1
+Spring 2024,Online Learning and Optimization,F,1
+Spring 2024,Online Learning and Optimization,Other,9
+Spring 2024,Optimization,A,5
+Spring 2024,Optimization,A-,8
+Spring 2024,Optimization,B+,4
+Spring 2024,Optimization,B,4
+Spring 2024,Optimization,B-,1
+Spring 2024,Optimization,C+,1
+Spring 2024,Optimization,C,1
+Spring 2024,Optimization,Other,5
+Summer 2024,Deep Learning,A,74
+Summer 2024,Deep Learning,A-,4
+Summer 2024,Deep Learning,B,4
+Summer 2024,Deep Learning,D-,1
+Summer 2024,Deep Learning,F,1
+Summer 2024,Deep Learning,Other,2
+Summer 2024,Machine Learning,A,20
+Summer 2024,Machine Learning,A-,9
+Summer 2024,Machine Learning,B+,14
+Summer 2024,Machine Learning,B,7
+Summer 2024,Machine Learning,B-,6
+Summer 2024,Machine Learning,C+,3
+Summer 2024,Machine Learning,D,1
+Summer 2024,Machine Learning,Other,10
+Summer 2024,Reinforcement Learning,A,52
+Summer 2024,Reinforcement Learning,A-,28
+Summer 2024,Reinforcement Learning,B+,24
+Summer 2024,Reinforcement Learning,B,18
+Summer 2024,Reinforcement Learning,B-,8
+Summer 2024,Reinforcement Learning,C+,4
+Summer 2024,Reinforcement Learning,C,3
+Summer 2024,Reinforcement Learning,Other,11
+Fall 2024,Advanced Linear Algebra for Computation,A,6
+Fall 2024,Advanced Linear Algebra for Computation,A-,3
+Fall 2024,Advanced Linear Algebra for Computation,Other,3
+Fall 2024,Algorithms: Techniques and Theory,A,5
+Fall 2024,Algorithms: Techniques and Theory,A-,2
+Fall 2024,Algorithms: Techniques and Theory,B+,1
+Fall 2024,Algorithms: Techniques and Theory,B,3
+Fall 2024,Algorithms: Techniques and Theory,B-,2
+Fall 2024,Algorithms: Techniques and Theory,Other,2
+Fall 2024,Case Studies in Machine Learning,A,247
+Fall 2024,Case Studies in Machine Learning,A-,36
+Fall 2024,Case Studies in Machine Learning,B+,5
+Fall 2024,Case Studies in Machine Learning,B,2
+Fall 2024,Case Studies in Machine Learning,B-,2
+Fall 2024,Case Studies in Machine Learning,C-,1
+Fall 2024,Case Studies in Machine Learning,F,3
+Fall 2024,Case Studies in Machine Learning,Other,10
+Fall 2024,Deep Learning,A,174
+Fall 2024,Deep Learning,A-,12
+Fall 2024,Deep Learning,B+,4
+Fall 2024,Deep Learning,B,13
+Fall 2024,Deep Learning,D+,1
+Fall 2024,Deep Learning,F,1
+Fall 2024,Deep Learning,Other,16
+Fall 2024,Machine Learning,A,27
+Fall 2024,Machine Learning,A-,14
+Fall 2024,Machine Learning,B+,20
+Fall 2024,Machine Learning,B,6
+Fall 2024,Machine Learning,B-,3
+Fall 2024,Machine Learning,C,1
+Fall 2024,Machine Learning,Other,10
+Fall 2024,Natural Language Processing,A,98
+Fall 2024,Natural Language Processing,A-,90
+Fall 2024,Natural Language Processing,B+,38
+Fall 2024,Natural Language Processing,B,21
+Fall 2024,Natural Language Processing,B-,4
+Fall 2024,Natural Language Processing,C+,2
+Fall 2024,Natural Language Processing,C,2
+Fall 2024,Natural Language Processing,C-,1
+Fall 2024,Natural Language Processing,D+,1
+Fall 2024,Natural Language Processing,F,4
+Fall 2024,Natural Language Processing,Other,26
+Fall 2024,Optimization,A,14
+Fall 2024,Optimization,A-,19
+Fall 2024,Optimization,B+,2
+Fall 2024,Optimization,B,4
+Fall 2024,Optimization,Other,4
+Fall 2024,Parallel Systems,A,77
+Fall 2024,Parallel Systems,A-,13
+Fall 2024,Parallel Systems,B+,8
+Fall 2024,Parallel Systems,B,23
+Fall 2024,Parallel Systems,B-,7
+Fall 2024,Parallel Systems,C,5
+Fall 2024,Parallel Systems,F,2
+Fall 2024,Parallel Systems,Other,40
+Fall 2024,"Planning, Search, and Reasoning Under Uncertainty",A,216
+Fall 2024,"Planning, Search, and Reasoning Under Uncertainty",A-,41
+Fall 2024,"Planning, Search, and Reasoning Under Uncertainty",B+,23
+Fall 2024,"Planning, Search, and Reasoning Under Uncertainty",B,12
+Fall 2024,"Planning, Search, and Reasoning Under Uncertainty",B-,13
+Fall 2024,"Planning, Search, and Reasoning Under Uncertainty",C+,6
+Fall 2024,"Planning, Search, and Reasoning Under Uncertainty",C,5
+Fall 2024,"Planning, Search, and Reasoning Under Uncertainty",C-,1
+Fall 2024,"Planning, Search, and Reasoning Under Uncertainty",D+,2
+Fall 2024,"Planning, Search, and Reasoning Under Uncertainty",F,4
+Fall 2024,"Planning, Search, and Reasoning Under Uncertainty",Other,19
+Fall 2024,Reinforcement Learning,A,24
+Fall 2024,Reinforcement Learning,A-,14
+Fall 2024,Reinforcement Learning,B+,11
+Fall 2024,Reinforcement Learning,B,11
+Fall 2024,Reinforcement Learning,B-,6
+Fall 2024,Reinforcement Learning,C+,1
+Fall 2024,Reinforcement Learning,C,2
+Fall 2024,Reinforcement Learning,Other,3
+Fall 2024,Virtualization,A,46
+Fall 2024,Virtualization,A-,32
+Fall 2024,Virtualization,B+,15
+Fall 2024,Virtualization,B,2
+Fall 2024,Virtualization,B-,4
+Fall 2024,Virtualization,C+,2
+Fall 2024,Virtualization,F,1
+Fall 2024,Virtualization,Other,8
+Spring 2025,Advanced Operating Systems,A,2
+Spring 2025,Advanced Operating Systems,A-,3
+Spring 2025,Advanced Operating Systems,B,1
+Spring 2025,Advances in Deep Learning,A,276
+Spring 2025,Advances in Deep Learning,A-,32
+Spring 2025,Advances in Deep Learning,B+,6
+Spring 2025,Advances in Deep Learning,B,7
+Spring 2025,Advances in Deep Learning,C,3
+Spring 2025,Advances in Deep Learning,F,4
+Spring 2025,Advances in Deep Learning,Other,9
+Spring 2025,Algorithms: Techniques and Theory,A,5
+Spring 2025,Algorithms: Techniques and Theory,A-,5
+Spring 2025,Algorithms: Techniques and Theory,B+,3
+Spring 2025,Algorithms: Techniques and Theory,B,3
+Spring 2025,Algorithms: Techniques and Theory,D,1
+Spring 2025,Android Programming,A,251
+Spring 2025,Android Programming,A-,30
+Spring 2025,Android Programming,B+,7
+Spring 2025,Android Programming,B,9
+Spring 2025,Android Programming,B-,1
+Spring 2025,Android Programming,C+,4
+Spring 2025,Android Programming,C,5
+Spring 2025,Android Programming,C-,2
+Spring 2025,Android Programming,D+,3
+Spring 2025,Android Programming,D,1
+Spring 2025,Android Programming,F,7
+Spring 2025,Android Programming,Other,20
+Spring 2025,Automated Logical Reasoning,A,26
+Spring 2025,Automated Logical Reasoning,A-,8
+Spring 2025,Automated Logical Reasoning,B+,19
+Spring 2025,Automated Logical Reasoning,Other,7
+Spring 2025,Deep Learning,A,258
+Spring 2025,Deep Learning,A-,16
+Spring 2025,Deep Learning,B+,3
+Spring 2025,Deep Learning,B,7
+Spring 2025,Deep Learning,C+,1
+Spring 2025,Deep Learning,Other,7
+Spring 2025,Introduction to Quantum Information Science,A,8
+Spring 2025,Introduction to Quantum Information Science,A-,8
+Spring 2025,Introduction to Quantum Information Science,B+,5
+Spring 2025,Introduction to Quantum Information Science,B,6
+Spring 2025,Introduction to Quantum Information Science,B-,1
+Spring 2025,Introduction to Quantum Information Science,C,3
+Spring 2025,Introduction to Quantum Information Science,Other,6
+Spring 2025,Machine Learning,A,25
+Spring 2025,Machine Learning,A,19
+Spring 2025,Machine Learning,A-,13
+Spring 2025,Machine Learning,A-,8
+Spring 2025,Machine Learning,B+,12
+Spring 2025,Machine Learning,B+,4
+Spring 2025,Machine Learning,B,9
+Spring 2025,Machine Learning,B,1
+Spring 2025,Machine Learning,B-,7
+Spring 2025,Machine Learning,C+,4
+Spring 2025,Machine Learning,C,2
+Spring 2025,Machine Learning,C-,1
+Spring 2025,Machine Learning,D+,1
+Spring 2025,Machine Learning,F,1
+Spring 2025,Machine Learning,Other,4
+Spring 2025,Machine Learning,Other,3
+Spring 2025,Online Learning and Optimization,A,122
+Spring 2025,Online Learning and Optimization,A-,17
+Spring 2025,Online Learning and Optimization,B+,11
+Spring 2025,Online Learning and Optimization,B,5
+Spring 2025,Online Learning and Optimization,Other,1
+Spring 2025,Optimization,A,18
+Spring 2025,Optimization,A-,15
+Spring 2025,Optimization,B+,14
+Spring 2025,Optimization,B,5
+Spring 2025,Optimization,C+,2
+Spring 2025,Optimization,Other,4
+Summer 2025,Advances in Deep Learning,A,165
+Summer 2025,Advances in Deep Learning,A-,25
+Summer 2025,Advances in Deep Learning,B+,7
+Summer 2025,Advances in Deep Learning,B,17
+Summer 2025,Advances in Deep Learning,C+,4
+Summer 2025,Advances in Deep Learning,C,3
+Summer 2025,Advances in Deep Learning,C-,1
+Summer 2025,Advances in Deep Learning,D+,1
+Summer 2025,Advances in Deep Learning,F,1
+Summer 2025,Advances in Deep Learning,Other,9
+Summer 2025,Deep Learning,A,119
+Summer 2025,Deep Learning,A-,6
+Summer 2025,Deep Learning,B+,2
+Summer 2025,Deep Learning,B,1
+Summer 2025,Deep Learning,C+,1
+Summer 2025,Deep Learning,D,1
+Summer 2025,Deep Learning,F,2
+Summer 2025,Deep Learning,Other,4
+Summer 2025,Machine Learning,A,18
+Summer 2025,Machine Learning,A-,16
+Summer 2025,Machine Learning,B+,20
+Summer 2025,Machine Learning,B,11
+Summer 2025,Machine Learning,B-,10
+Summer 2025,Machine Learning,C+,1
+Summer 2025,Machine Learning,C,1
+Summer 2025,Machine Learning,D+,1
+Summer 2025,Machine Learning,Other,11
+Summer 2025,Reinforcement Learning,A,122
+Summer 2025,Reinforcement Learning,A-,38
+Summer 2025,Reinforcement Learning,B+,20
+Summer 2025,Reinforcement Learning,B,9
+Summer 2025,Reinforcement Learning,B-,5
+Summer 2025,Reinforcement Learning,C-,1
+Summer 2025,Reinforcement Learning,D-,1
+Summer 2025,Reinforcement Learning,F,1
+Summer 2025,Reinforcement Learning,Other,6
+Fall 2025,Advanced Linear Algebra for Computation,A,5
+Fall 2025,Advanced Linear Algebra for Computation,A-,1
+Fall 2025,Advanced Linear Algebra for Computation,B+,3
+Fall 2025,Advanced Linear Algebra for Computation,B,1
+Fall 2025,Advanced Linear Algebra for Computation,B-,1
+Fall 2025,Advanced Operating Systems,A,19
+Fall 2025,Advanced Operating Systems,A-,7
+Fall 2025,Advanced Operating Systems,B+,2
+Fall 2025,Advanced Operating Systems,B,4
+Fall 2025,Advanced Operating Systems,B-,1
+Fall 2025,Advanced Operating Systems,Other,2
+Fall 2025,Advances in Deep Generative Models,A,34
+Fall 2025,Advances in Deep Generative Models,A-,8
+Fall 2025,Advances in Deep Generative Models,B+,19
+Fall 2025,Advances in Deep Generative Models,B,5
+Fall 2025,Advances in Deep Generative Models,B-,7
+Fall 2025,Advances in Deep Generative Models,C,1
+Fall 2025,Advances in Deep Generative Models,Other,11
+Fall 2025,Advances in Deep Learning,A,88
+Fall 2025,Advances in Deep Learning,A-,22
+Fall 2025,Advances in Deep Learning,B+,7
+Fall 2025,Advances in Deep Learning,B,7
+Fall 2025,Advances in Deep Learning,C+,1
+Fall 2025,Advances in Deep Learning,C,1
+Fall 2025,Advances in Deep Learning,C-,1
+Fall 2025,Advances in Deep Learning,F,1
+Fall 2025,Advances in Deep Learning,Other,4
+Fall 2025,Algorithms: Techniques and Theory,A-,4
+Fall 2025,Algorithms: Techniques and Theory,B,1
+Fall 2025,Algorithms: Techniques and Theory,B-,1
+Fall 2025,Algorithms: Techniques and Theory,C,1
+Fall 2025,Algorithms: Techniques and Theory,Other,4
+Fall 2025,Deep Learning,A,233
+Fall 2025,Deep Learning,A-,4
+Fall 2025,Deep Learning,B+,1
+Fall 2025,Deep Learning,B,4
+Fall 2025,Deep Learning,F,5
+Fall 2025,Deep Learning,Other,3
+Fall 2025,Distributed Systems,A,79
+Fall 2025,Distributed Systems,A-,29
+Fall 2025,Distributed Systems,B+,17
+Fall 2025,Distributed Systems,B,6
+Fall 2025,Distributed Systems,B-,2
+Fall 2025,Distributed Systems,C+,6
+Fall 2025,Distributed Systems,C-,1
+Fall 2025,Distributed Systems,D+,1
+Fall 2025,Distributed Systems,D-,1
+Fall 2025,Distributed Systems,F,1
+Fall 2025,Distributed Systems,Other,10
+Fall 2025,Implementation of Programming Languages,A,33
+Fall 2025,Implementation of Programming Languages,A-,25
+Fall 2025,Implementation of Programming Languages,B+,10
+Fall 2025,Implementation of Programming Languages,B,13
+Fall 2025,Implementation of Programming Languages,B-,4
+Fall 2025,Implementation of Programming Languages,C+,3
+Fall 2025,Implementation of Programming Languages,C,1
+Fall 2025,Implementation of Programming Languages,C-,1
+Fall 2025,Implementation of Programming Languages,D+,1
+Fall 2025,Implementation of Programming Languages,F,4
+Fall 2025,Implementation of Programming Languages,Other,23
+Fall 2025,Machine Learning,A,44
+Fall 2025,Machine Learning,A-,16
+Fall 2025,Machine Learning,B+,25
+Fall 2025,Machine Learning,B,9
+Fall 2025,Machine Learning,B-,5
+Fall 2025,Machine Learning,C+,4
+Fall 2025,Machine Learning,C-,1
+Fall 2025,Machine Learning,F,5
+Fall 2025,Machine Learning,Other,11
+Fall 2025,Natural Language Processing,A,144
+Fall 2025,Natural Language Processing,A-,55
+Fall 2025,Natural Language Processing,B+,23
+Fall 2025,Natural Language Processing,B,9
+Fall 2025,Natural Language Processing,B-,6
+Fall 2025,Natural Language Processing,C+,1
+Fall 2025,Natural Language Processing,C-,1
+Fall 2025,Natural Language Processing,D+,1
+Fall 2025,Natural Language Processing,F,1
+Fall 2025,Natural Language Processing,Other,10
+Fall 2025,Optimization,A,30
+Fall 2025,Optimization,A-,9
+Fall 2025,Optimization,B+,5
+Fall 2025,Optimization,B,3
+Fall 2025,Optimization,B-,2
+Fall 2025,Optimization,Other,3
+Fall 2025,Parallel Systems,A,152
+Fall 2025,Parallel Systems,A-,19
+Fall 2025,Parallel Systems,B+,6
+Fall 2025,Parallel Systems,B,12
+Fall 2025,Parallel Systems,B-,4
+Fall 2025,Parallel Systems,C,4
+Fall 2025,Parallel Systems,F,5
+Fall 2025,Parallel Systems,Other,24
+Fall 2025,"Planning, Search, and Reasoning Under Uncertainty",A,221
+Fall 2025,"Planning, Search, and Reasoning Under Uncertainty",A-,22
+Fall 2025,"Planning, Search, and Reasoning Under Uncertainty",B+,14
+Fall 2025,"Planning, Search, and Reasoning Under Uncertainty",B,7
+Fall 2025,"Planning, Search, and Reasoning Under Uncertainty",B-,3
+Fall 2025,"Planning, Search, and Reasoning Under Uncertainty",C+,1
+Fall 2025,"Planning, Search, and Reasoning Under Uncertainty",C,2
+Fall 2025,"Planning, Search, and Reasoning Under Uncertainty",C-,1
+Fall 2025,"Planning, Search, and Reasoning Under Uncertainty",Other,12
+Fall 2025,Reinforcement Learning,A,41
+Fall 2025,Reinforcement Learning,A-,19
+Fall 2025,Reinforcement Learning,B+,6
+Fall 2025,Reinforcement Learning,B,4
+Fall 2025,Reinforcement Learning,B-,2
+Fall 2025,Reinforcement Learning,C,1
+Fall 2025,Reinforcement Learning,C-,1
+Fall 2025,Reinforcement Learning,D,1
+Fall 2025,Reinforcement Learning,Other,1
